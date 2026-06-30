@@ -2,7 +2,8 @@ import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   output: 'export',
-  trailingSlash: true, // 💡 DIWAJIBKAN untuk GitHub Pages agar folder halaman statis terbentuk sempurna
+  trailingSlash: true,
+  basePath: '/imanlogics2', // 💡 WAJIB: Beritahu Next.js bahwa situs Anda berada di sub-folder /imanlogics2
   images: {
     unoptimized: true,
     remotePatterns: [
