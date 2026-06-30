@@ -8,7 +8,7 @@ export function SiteFooter() {
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12 mb-16">
         <div className="md:col-span-1">
           <Link href="/" className="text-xl font-bold tracking-tight text-white flex items-center gap-2.5 mb-4">
-            <Image src="/logo.png" alt="Iman Logics" width={32} height={32} className="rounded-md" />
+            <Image src="/imanlogics2/logo.png" alt="Iman Logics" width={32} height={32} className="rounded-md" />
             {globalData.footer.brand_prefix}<span className="text-slate-400 font-normal">{globalData.footer.brand_suffix}</span>
           </Link>
           <p className="text-sm font-medium text-slate-500 tracking-wide uppercase">
