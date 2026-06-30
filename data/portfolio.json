@@ -8,14 +8,14 @@
       "status": "live",
       "icon": "book",
       "hero": {
-        "title": "Susun Khutbah Berkualitas dalam Hitungan Menit, Bukan Berjam-jam.",
-        "description": "Zaadul Khotib 2.0 membantu Anda menyusun draft khutbah Jum'at berbahasa Indonesia maupun Arab dengan struktur yang sistematis, referensi yang relevan, serta gaya bahasa yang mudah dipahami—sehingga Anda dapat lebih fokus mempersiapkan penyampaian, bukan memulai dari halaman kosong.",
+        "title": "Studi Kasus: Zaadul Khotib 2.0",
+        "description": "Pengembangan Asisten AI Khutbah Jum'at yang mengubah ide menjadi struktur khutbah sistematis dengan pencarian dalil otomatis dalam hitungan menit.",
         "primaryCta": {
-          "text": "Akses Zaadul Khotib Sekarang",
+          "text": "Lihat Produk Live",
           "href": "https://imanlogics.myr.id/pl/zaadul-khotib-20"
         },
         "secondaryCta": {
-          "text": "Lihat Cara Kerjanya ↓",
+          "text": "Baca Studi Kasus ↓",
           "href": "#masalah"
         }
       },
@@ -26,8 +26,8 @@
         "Khusus untuk Khutbah"
       ],
       "problems": {
-        "title": "Jujur, pernah ngerasa kaya gini gak?",
-        "subtitle": "Refleksi Pribadi",
+        "title": "Tantangan Pengembangan",
+        "subtitle": "Masalah yang Dipecahkan",
         "items": [
           {
             "id": "blank",
@@ -62,20 +62,20 @@
         }
       },
       "solution": {
-        "title": "Kenalkan, Zaadul Khotib 2.0",
+        "title": "Pendekatan Solusi (Arsitektur AI)",
         "description": [
           "Zaadul Khotib 2.0 adalah AI Assistant yang dirancang khusus untuk membantu penyusunan khutbah Jum'at.",
           "Berbeda dengan AI umum, sistem ini telah diinstruksikan secara spesifik agar mampu menghasilkan draft khutbah yang terstruktur, relevan, dan sesuai tata cara redaksi seorang khatib."
         ],
         "quote": "\"Menyusun khutbah memang membutuhkan ilmu, ketelitian, dan waktu. Zaadul Khotib 2.0 tidak menggantikan peran Anda sebagai khatib, tetapi mengambil alih beban penyusunan draft mentah, sehingga Anda dapat lebih fokus pada penyempurnaan isi dan penyampaiannya.\"",
         "cta": {
-          "text": "Ya, Bantu Saya Susun Khutbah",
-          "href": "https://imanlogics.myr.id/pl/zaadul-khotib-20"
+          "text": "Lihat Arsitektur",
+          "href": "#how-it-works"
         }
       },
       "howItWorks": {
-        "title": "Hanya 3 Langkah",
-        "subtitle": "Persingkat waktu penulisan, maksimalkan waktu persiapan.",
+        "title": "Alur Kerja Sistem",
+        "subtitle": "Bagaimana Zaadul Khotib Memproses Input",
         "steps": [
           {
             "id": "step-1",
@@ -98,7 +98,7 @@
         ]
       },
       "benefits": {
-        "title": "Mengapa Memilih Zaadul Khotib 2.0?",
+        "title": "Hasil & Dampak",
         "items": [
           {
             "id": "hemat-waktu",
@@ -153,27 +153,13 @@
           }
         ]
       },
-      "pricing": {
-        "title": "Siapkan Khutbah dengan Lebih Efisien",
-        "subtitle": "Hemat waktu dalam menyusun draft khutbah tanpa mengurangi kesempatan untuk tetap menelaah dan menyempurnakan isi sesuai kebutuhan jamaah.",
-        "originalPrice": "Rp 299.000",
-        "currentPrice": "Rp 199.000",
-        "features": [
-          "Akses penuh sistem Asisten Zaadul Khotib 2.0",
-          "Bebas setel Muqaddimah (Dinamis / Khutbatul Hajah)",
-          "Output Naskah Bahasa Indonesia & Arab",
-          "Panduan penggunaan lengkap & Dukungan dasar",
-          "Gratis update sistem & penyempurnaan selamanya"
-        ],
-        "bonuses": [
-          "Bank 200 Tema Khutbah Sepanjang Masa (Dibagi sistematis berdasar kalender Hijriyah & Masehi)",
-          "3 PDF Khutbah Bahasa Arab Awqaf UAE (Naskah utuh selama 3 Tahun: 2023-2025)"
-        ],
-        "cta": {
-          "text": "Ya, Saya Mau Akses & Semua Bonusnya",
-          "href": "https://imanlogics.myr.id/pl/zaadul-khotib-20"
-        }
-      }
+      "logoImage": "zaadul-logo.png",
+      "showcaseImages": [
+        "zaadul-proof-1.png",
+        "zaadul-proof-2.png",
+        "zaadul-proof-3.png",
+        "zaadul-proof-4.png"
+      ]
     },
     {
       "slug": "thinkforge",
@@ -183,1041 +169,1042 @@
       "status": "concept",
       "icon": "lightning",
       "hero": {
-        "title": "ThinkForge",
-        "description": "\"Dari Rajin Menjadi Tajam\". AI Cognitive Coach yang dirancang untuk melatih cara berpikir kritis, mengenali bias, dan membangun refleksi diri.",
+        "title": "Studi Kasus: ThinkForge",
+        "description": "ThinkForge adalah AI Cognitive Coach yang dirancang untuk membantu Anda berpikir lebih jernih, mengenali bias, mempertajam logika, serta membangun kebiasaan berpikir kritis melalui percakapan yang interaktif dan personal.",
         "primaryCta": {
-          "text": "Dapatkan Akses Sekarang",
-          "href": "#"
+          "text": "Lihat Halaman Produk",
+          "href": "/products/thinkforge"
         },
         "secondaryCta": {
-          "text": "Pelajari Lebih Lanjut ↓",
+          "text": "Baca Studi Kasus ↓",
           "href": "#masalah"
         }
       },
       "trustBar": [
-        "Kualitas Terjamin",
-        "Dukungan Penuh",
-        "Akses Selamanya",
-        "Desain Modern"
+        "AI Cognitive Coach",
+        "Critical Thinking Training",
+        "Bias Detection",
+        "Personal Reflection"
       ],
       "problems": {
-        "title": "Apakah Anda Menghadapi Masalah Ini?",
-        "subtitle": "Identifikasi Masalah",
+        "title": "Tantangan Pengembangan",
+        "subtitle": "Masalah yang Dipecahkan",
         "items": [
           {
-            "id": "p1",
-            "title": "Tidak Ada Waktu",
-            "description": "Menghabiskan terlalu banyak waktu untuk hal-hal yang seharusnya bisa diotomatisasi.",
-            "icon": "clock"
+            "id": "blank",
+            "title": "Terlalu Cepat Percaya",
+            "description": "Membaca satu postingan, satu video, atau satu berita lalu langsung yakin itu benar tanpa sempat mempertanyakan sumber maupun logikanya.",
+            "icon": "search"
           },
           {
-            "id": "p2",
-            "title": "Kebingungan Memulai",
-            "description": "Ide ada, tetapi bingung bagaimana mengeksekusinya dengan langkah yang benar.",
-            "icon": "brain-off"
-          },
-          {
-            "id": "p3",
-            "title": "Kualitas Kurang Maksimal",
-            "description": "Hasil pekerjaan belum mencapai standar profesional yang diharapkan.",
+            "id": "buntu",
+            "title": "Sulit Menjelaskan Pendapat",
+            "description": "Punya opini, tetapi ketika diminta menjelaskan alasannya justru bingung sendiri karena ternyata belum benar-benar memahami masalahnya.",
             "icon": "edit-3"
           },
           {
-            "id": "p4",
-            "title": "Susah Menemukan Data",
-            "description": "Kesulitan dalam meriset atau mengumpulkan informasi relevan dengan cepat.",
-            "icon": "search"
-          }
-        ],
-        "highlightedItem": {
-          "id": "p5",
-          "title": "Kehilangan Momentum",
-          "description": "Banyak peluang terlewatkan karena eksekusi yang lambat dan kurangnya sistem.",
-          "icon": "bot"
-        }
-      },
-      "solution": {
-        "title": "Kami Punya Solusinya",
-        "description": [
-          "Produk ini dirancang khusus sebagai alat bantu mutakhir untuk mengatasi hambatan tersebut.",
-          "Mengintegrasikan teknologi dan pendekatan sistematis sehingga Anda dapat mencapai target dengan lebih mudah."
-        ],
-        "quote": "\"Investasi terbaik adalah pada alat dan sistem yang melipatgandakan nilai waktu Anda.\"",
-        "cta": {
-          "text": "Mulai Perjalanan Anda",
-          "href": "#"
-        }
-      },
-      "howItWorks": {
-        "title": "Cara Kerja Sistem",
-        "subtitle": "Tiga langkah mudah untuk melihat perubahan nyata.",
-        "steps": [
-          {
-            "id": "s1",
-            "stepNumber": 1,
-            "title": "Identifikasi",
-            "description": "Kenali apa yang menjadi fokus utama Anda saat ini."
+            "id": "dalil",
+            "title": "Terjebak Bias Diri Sendiri",
+            "description": "Sering hanya mencari informasi yang mendukung keyakinan pribadi dan tanpa sadar menolak sudut pandang lain yang sebenarnya lebih kuat.",
+            "icon": "brain-off"
           },
           {
-            "id": "s2",
-            "stepNumber": 2,
-            "title": "Implementasi",
-            "description": "Terapkan langkah-langkah yang ada di dalam produk."
+            "id": "deadline",
+            "title": "Overthinking tapi Tidak Produktif",
+            "description": "Berjam-jam memikirkan sesuatu, tetapi tidak pernah benar-benar sampai pada kesimpulan yang jelas ataupun keputusan yang matang.",
+            "icon": "clock"
           },
           {
-            "id": "s3",
-            "stepNumber": 3,
-            "title": "Optimalisasi",
-            "description": "Nikmati efisiensi dan terus kembangkan proses Anda."
-          }
-        ]
-      },
-      "benefits": {
-        "title": "Keuntungan yang Akan Anda Dapatkan",
-        "items": [
-          {
-            "id": "b1",
-            "title": "Lebih Cepat",
-            "description": "Proses yang tadinya berjam-jam kini bisa selesai dalam hitungan menit.",
-            "icon": "timer"
-          },
-          {
-            "id": "b2",
-            "title": "Lebih Terstruktur",
-            "description": "Semua tertata dengan pola yang jelas dan mudah diikuti.",
-            "icon": "layout-list"
-          },
-          {
-            "id": "b3",
-            "title": "Adaptif",
-            "description": "Bisa disesuaikan dengan berbagai skenario penggunaan.",
-            "icon": "languages"
-          },
-          {
-            "id": "b4",
-            "title": "Dukungan Pengetahuan",
-            "description": "Dilengkapi dengan panduan dan *best practices* industri.",
+            "id": "connect",
+            "title": "Belajar Banyak, Tapi Sulit Menghubungkan",
+            "description": "Sudah membaca puluhan buku, menonton ratusan video, namun pengetahuan terasa terpisah-pisah dan sulit diterapkan dalam kehidupan nyata.",
             "icon": "book-open"
           }
         ],
         "highlightedItem": {
-          "id": "b5",
-          "title": "Desain Spesifik",
-          "description": "Dibangun bukan sebagai *tools* umum, melainkan solusi yang tajam untuk target penggunanya.",
+          "id": "ai-biasa",
+          "title": "AI Hanya Memberi Jawaban",
+          "description": "Kebanyakan AI langsung memberikan solusi, bukan membantu Anda memahami bagaimana cara berpikir yang menghasilkan solusi tersebut.",
+          "icon": "bot"
+        }
+      },
+      "solution": {
+        "title": "Pendekatan Solusi (Arsitektur Sistem)",
+        "description": [
+          "ThinkForge adalah AI Cognitive Coach yang dirancang untuk melatih kualitas cara berpikir, bukan sekadar memberikan jawaban.",
+          "Sistem ini mengajak Anda berdialog, mengajukan pertanyaan yang tepat, menguji asumsi, mengidentifikasi kelemahan logika, serta membantu melihat suatu masalah dari berbagai sudut pandang."
+        ],
+        "quote": "\"Tujuan ThinkForge bukan membuat Anda bergantung pada AI, tetapi membantu Anda menjadi seseorang yang mampu berpikir lebih tajam bahkan ketika AI tidak ada.\"",
+        "cta": {
+          "text": "Lihat Alur Kerja",
+          "href": "#how-it-works"
+        }
+      },
+      "howItWorks": {
+        "title": "Hanya 3 Langkah",
+        "subtitle": "Alur diskusi yang terstruktur untuk menguji dan menajamkan pemikiran Anda.",
+        "steps": [
+          {
+            "id": "step-1",
+            "stepNumber": 1,
+            "title": "Ceritakan Masalah atau Ide Anda",
+            "description": "Tuliskan keputusan yang sedang Anda hadapi, argumen yang ingin diuji, atau sekadar pemikiran yang ingin Anda diskusikan."
+          },
+          {
+            "id": "step-2",
+            "stepNumber": 2,
+            "title": "Berdiskusi dengan AI Coach",
+            "description": "ThinkForge tidak langsung memberikan jawaban. Ia akan bertanya balik, menguji logika Anda, menunjukkan bias yang mungkin muncul, serta membantu memperjelas cara berpikir."
+          },
+          {
+            "id": "step-3",
+            "stepNumber": 3,
+            "title": "Ambil Kesimpulan yang Lebih Matang",
+            "description": "Di akhir sesi, Anda memperoleh rangkuman pola pikir, kelemahan argumen, alternatif solusi, serta langkah berikutnya yang lebih rasional."
+          }
+        ]
+      },
+      "benefits": {
+        "title": "Hasil & Dampak",
+        "items": [
+          {
+            "id": "menghafal",
+            "title": "Melatih Berpikir, Bukan Menghafal",
+            "description": "Fokus pada peningkatan kualitas penalaran, bukan sekadar menambah informasi.",
+            "icon": "timer"
+          },
+          {
+            "id": "bias",
+            "title": "Mengenali Bias Kognitif",
+            "description": "Membantu menemukan confirmation bias, survivorship bias, anchoring, dan berbagai bias lain yang sering tidak disadari.",
+            "icon": "search"
+          },
+          {
+            "id": "dua-arah",
+            "title": "Diskusi Dua Arah",
+            "description": "AI aktif bertanya dan menggali alasan Anda sehingga percakapan terasa seperti berdiskusi dengan mentor.",
+            "icon": "languages"
+          },
+          {
+            "id": "bidang",
+            "title": "Cocok untuk Berbagai Bidang",
+            "description": "Belajar, bisnis, dakwah, karier, penelitian, maupun kehidupan sehari-hari.",
+            "icon": "book-open"
+          },
+          {
+            "id": "jernih",
+            "title": "Membentuk Kebiasaan Berpikir Jernih",
+            "description": "Semakin sering digunakan, semakin terbiasa Anda menyusun argumen yang logis dan sistematis.",
+            "icon": "layout-list"
+          }
+        ],
+        "highlightedItem": {
+          "id": "menggurui",
+          "title": "Tidak Menggurui",
+          "description": "AI bertindak sebagai coach, bukan hakim. Tujuannya membantu Anda menemukan jawaban terbaik sendiri.",
           "icon": "mic"
         }
       },
       "faq": {
-        "title": "Pertanyaan Umum",
+        "title": "Pertanyaan Seputar Pengembangan",
         "items": [
           {
-            "question": "Apakah saya memerlukan keahlian khusus?",
-            "answer": "Tidak, produk ini dirancang ramah pengguna dan dilengkapi panduan."
+            "question": "Apakah ThinkForge akan selalu memberi jawaban yang benar?",
+            "answer": "Tidak. ThinkForge dirancang untuk membantu proses berpikir. Keputusan akhir tetap berada di tangan Anda."
           },
           {
-            "question": "Bagaimana dengan pembaruan ke ke depannya?",
-            "answer": "Anda akan mendapatkan pembaruan secara gratis."
+            "question": "Apakah cocok untuk mahasiswa?",
+            "answer": "Sangat cocok. ThinkForge membantu menganalisis tugas, penelitian, diskusi akademik, hingga pengambilan keputusan."
           },
           {
-            "question": "Apakah ada batasan penggunaan?",
-            "answer": "Produk ini bebas digunakan tanpa batasan harian."
+            "question": "Apakah hanya untuk orang pintar?",
+            "answer": "Justru tidak. Siapa pun dapat menggunakan ThinkForge untuk melatih cara berpikir secara bertahap."
           },
           {
-            "question": "Apakah saya bisa menyesuaikannya dengan kebutuhan saya?",
-            "answer": "Sangat bisa, fleksibilitas adalah salah satu keunggulan kami."
+            "question": "Apakah saya harus memahami psikologi atau filsafat?",
+            "answer": "Tidak sekali pun. Anda cukup menceritakan masalah atau ide yang sedang dipikirkan, lalu AI akan memandu proses diskusi."
+          },
+          {
+            "question": "Apakah bisa digunakan setiap hari?",
+            "answer": "Ya. Bahkan penggunaan rutin akan membantu membangun pola berpikir yang semakin tajam dari waktu ke waktu."
           }
         ]
       },
-      "pricing": {
-        "title": "Transformasi Dimulai dari Sini",
-        "subtitle": "Ambil langkah pertama untuk mengoptimalkan cara kerja Anda.",
-        "originalPrice": "Rp 299.000",
-        "currentPrice": "Rp 99.000",
-        "features": [
-          "Akses penuh seumur hidup",
-          "Dokumentasi dan panduan langkah",
-          "Gratis update sistem secara berkala",
-          "Kompatibel untuk berbagai platform"
-        ],
-        "bonuses": [
-          "Materi eksklusif tambahan",
-          "Akses komunitas prioritas"
-        ],
-        "cta": {
-          "text": "Amankan Akses Sekarang",
-          "href": "#"
-        }
-      }
+      "showcaseImages": [
+        "placeholder-showcase-1.png",
+        "placeholder-showcase-2.png"
+      ]
     },
     {
       "slug": "ai-personality-analyzer",
-      "name": "AI Personality, Intelligence & Career Analyzer",
+      "name": "PersonaIQ",
       "badge": "AI • Self Development",
       "description": "Platform analisis diri terintegrasi untuk memetakan kepribadian, kecerdasan, potensi, dan gaya belajar guna pengambilan keputusan karier.",
       "status": "concept",
       "icon": "shield",
       "hero": {
-        "title": "AI Personality, Intelligence & Career Analyzer",
-        "description": "Platform analisis diri terintegrasi untuk memetakan kepribadian, kecerdasan, potensi, dan gaya belajar guna pengambilan keputusan karier.",
+        "title": "Studi Kasus: PersonaIQ",
+        "description": "AI Personality, Intelligence & Career Analyzer membantu memetakan kepribadian, kecerdasan, gaya belajar, kekuatan, kelemahan, hingga rekomendasi karier berdasarkan hasil analisis yang komprehensif—bukan sekadar tes kepribadian biasa.",
         "primaryCta": {
-          "text": "Dapatkan Akses Sekarang",
-          "href": "#"
+          "text": "Lihat Halaman Produk",
+          "href": "/products/ai-personality-analyzer"
         },
         "secondaryCta": {
-          "text": "Pelajari Lebih Lanjut ↓",
+          "text": "Baca Studi Kasus ↓",
           "href": "#masalah"
         }
       },
       "trustBar": [
-        "Kualitas Terjamin",
-        "Dukungan Penuh",
-        "Akses Selamanya",
-        "Desain Modern"
+        "Analisis Kepribadian",
+        "Multiple Intelligence",
+        "Career Recommendation",
+        "Learning Style"
       ],
       "problems": {
-        "title": "Apakah Anda Menghadapi Masalah Ini?",
-        "subtitle": "Identifikasi Masalah",
+        "title": "Tantangan Pengembangan",
+        "subtitle": "Masalah yang Dipecahkan",
         "items": [
           {
-            "id": "p1",
-            "title": "Tidak Ada Waktu",
-            "description": "Menghabiskan terlalu banyak waktu untuk hal-hal yang seharusnya bisa diotomatisasi.",
+            "id": "bingung",
+            "title": "Bingung Sebenarnya Saya Cocok Jadi Apa",
+            "description": "Banyak pilihan pekerjaan, tetapi semuanya terasa menarik sekaligus membingungkan. Takut salah memilih jalan.",
+            "icon": "search"
+          },
+          {
+            "id": "tren",
+            "title": "Ikut Tren Tanpa Mengenal Diri",
+            "description": "Teman masuk IT ikut IT. Teman bisnis ikut bisnis. Padahal belum tentu sesuai dengan kemampuan diri sendiri.",
+            "icon": "globe"
+          },
+          {
+            "id": "lambat",
+            "title": "Sudah Belajar Lama, Tapi Tidak Berkembang",
+            "description": "Merasa sudah belajar keras, namun hasilnya biasa saja karena ternyata metode belajarnya tidak sesuai dengan karakter diri.",
             "icon": "clock"
           },
           {
-            "id": "p2",
-            "title": "Kebingungan Memulai",
-            "description": "Ide ada, tetapi bingung bagaimana mengeksekusinya dengan langkah yang benar.",
-            "icon": "brain-off"
-          },
-          {
-            "id": "p3",
-            "title": "Kualitas Kurang Maksimal",
-            "description": "Hasil pekerjaan belum mencapai standar profesional yang diharapkan.",
+            "id": "kelebihan",
+            "title": "Tidak Tahu Kelebihan Sendiri",
+            "description": "Saat diminta menjelaskan kelebihan saat wawancara atau membuat CV, justru bingung harus menjawab apa.",
             "icon": "edit-3"
           },
           {
-            "id": "p4",
-            "title": "Susah Menemukan Data",
-            "description": "Kesulitan dalam meriset atau mengumpulkan informasi relevan dengan cepat.",
-            "icon": "search"
+            "id": "banding",
+            "title": "Sering Membandingkan Diri",
+            "description": "Melihat orang lain sukses membuat diri sendiri merasa tertinggal karena belum memahami potensi yang sebenarnya dimiliki.",
+            "icon": "brain-off"
           }
         ],
         "highlightedItem": {
-          "id": "p5",
-          "title": "Kehilangan Momentum",
-          "description": "Banyak peluang terlewatkan karena eksekusi yang lambat dan kurangnya sistem.",
+          "id": "dangkal",
+          "title": "Tes Kepribadian Terlalu Dangkal",
+          "description": "Banyak tes online hanya menghasilkan empat huruf atau beberapa paragraf singkat tanpa penjelasan yang benar-benar bisa diterapkan.",
           "icon": "bot"
         }
       },
       "solution": {
-        "title": "Kami Punya Solusinya",
+        "title": "Pendekatan Solusi (Arsitektur Sistem)",
         "description": [
-          "Produk ini dirancang khusus sebagai alat bantu mutakhir untuk mengatasi hambatan tersebut.",
-          "Mengintegrasikan teknologi dan pendekatan sistematis sehingga Anda dapat mencapai target dengan lebih mudah."
+          "Platform ini menggabungkan analisis kepribadian, kecerdasan majemuk, gaya belajar, motivasi intrinsik, kekuatan personal, hingga kecocokan karier dalam satu proses analisis yang saling terhubung.",
+          "Alih-alih memberi label siapa diri Anda, sistem ini membantu memahami bagaimana Anda belajar, bekerja, mengambil keputusan, berinteraksi dengan orang lain, serta bidang yang paling berpotensi untuk berkembang."
         ],
-        "quote": "\"Investasi terbaik adalah pada alat dan sistem yang melipatgandakan nilai waktu Anda.\"",
+        "quote": "\"Tujuan utama sistem ini bukan menentukan masa depan Anda, tetapi membantu Anda memahami diri sendiri sehingga setiap keputusan yang diambil menjadi lebih sadar dan terarah.\"",
         "cta": {
-          "text": "Mulai Perjalanan Anda",
-          "href": "#"
+          "text": "Lihat Alur Kerja",
+          "href": "#how-it-works"
         }
       },
       "howItWorks": {
-        "title": "Cara Kerja Sistem",
-        "subtitle": "Tiga langkah mudah untuk melihat perubahan nyata.",
+        "title": "Hanya 3 Langkah",
+        "subtitle": "Proses analisis cerdas untuk membuka wawasan baru tentang potensi diri Anda.",
         "steps": [
           {
-            "id": "s1",
+            "id": "step-1",
             "stepNumber": 1,
-            "title": "Identifikasi",
-            "description": "Kenali apa yang menjadi fokus utama Anda saat ini."
+            "title": "Jawab Pertanyaan Reflektif",
+            "description": "Jawablah serangkaian pertanyaan mengenai kebiasaan, cara berpikir, pengalaman, minat, dan preferensi Anda."
           },
           {
-            "id": "s2",
+            "id": "step-2",
             "stepNumber": 2,
-            "title": "Implementasi",
-            "description": "Terapkan langkah-langkah yang ada di dalam produk."
+            "title": "AI Menganalisis Seluruh Pola",
+            "description": "Sistem akan memetakan hubungan antar jawaban untuk menemukan pola kepribadian, kecerdasan dominan, gaya belajar, serta kekuatan dan tantangan Anda."
           },
           {
-            "id": "s3",
+            "id": "step-3",
             "stepNumber": 3,
-            "title": "Optimalisasi",
-            "description": "Nikmati efisiensi dan terus kembangkan proses Anda."
+            "title": "Terima Laporan Lengkap",
+            "description": "Anda memperoleh laporan komprehensif beserta rekomendasi karier, metode belajar, lingkungan kerja ideal, dan langkah pengembangan diri berikutnya."
           }
         ]
       },
       "benefits": {
-        "title": "Keuntungan yang Akan Anda Dapatkan",
+        "title": "Hasil & Dampak",
         "items": [
           {
-            "id": "b1",
-            "title": "Lebih Cepat",
-            "description": "Proses yang tadinya berjam-jam kini bisa selesai dalam hitungan menit.",
+            "id": "dalam",
+            "title": "Analisis Lebih Dalam",
+            "description": "Tidak berhenti pada tipe kepribadian, tetapi menghubungkan banyak aspek diri menjadi satu gambaran utuh.",
             "icon": "timer"
           },
           {
-            "id": "b2",
-            "title": "Lebih Terstruktur",
-            "description": "Semua tertata dengan pola yang jelas dan mudah diikuti.",
-            "icon": "layout-list"
+            "id": "personal",
+            "title": "Rekomendasi Karier yang Personal",
+            "description": "Setiap rekomendasi disesuaikan dengan karakter, kemampuan, motivasi, dan pola berpikir Anda.",
+            "icon": "search"
           },
           {
-            "id": "b3",
-            "title": "Adaptif",
-            "description": "Bisa disesuaikan dengan berbagai skenario penggunaan.",
+            "id": "belajar",
+            "title": "Memahami Cara Belajar Terbaik",
+            "description": "Ketahui metode belajar yang paling efektif agar waktu belajar menjadi lebih efisien.",
             "icon": "languages"
           },
           {
-            "id": "b4",
-            "title": "Dukungan Pengetahuan",
-            "description": "Dilengkapi dengan panduan dan *best practices* industri.",
+            "id": "mudah",
+            "title": "Laporan Mudah Dipahami",
+            "description": "Bahasanya sederhana, tidak dipenuhi istilah psikologi yang rumit.",
             "icon": "book-open"
+          },
+          {
+            "id": "usia",
+            "title": "Cocok untuk Segala Usia",
+            "description": "Mulai dari pelajar, mahasiswa, fresh graduate, hingga profesional yang ingin berpindah karier.",
+            "icon": "layout-list"
           }
         ],
         "highlightedItem": {
-          "id": "b5",
-          "title": "Desain Spesifik",
-          "description": "Dibangun bukan sebagai *tools* umum, melainkan solusi yang tajam untuk target penggunanya.",
+          "id": "konkret",
+          "title": "Fokus pada Pengembangan Diri",
+          "description": "Hasil analisis bukan sekadar deskripsi, tetapi disertai langkah konkret untuk berkembang.",
           "icon": "mic"
         }
       },
       "faq": {
-        "title": "Pertanyaan Umum",
+        "title": "Pertanyaan Seputar Pengembangan",
         "items": [
           {
-            "question": "Apakah saya memerlukan keahlian khusus?",
-            "answer": "Tidak, produk ini dirancang ramah pengguna dan dilengkapi panduan."
+            "question": "Apakah ini tes psikologi resmi?",
+            "answer": "Bukan. Ini merupakan sistem analisis berbasis AI yang dirancang sebagai alat refleksi dan pengembangan diri, bukan pengganti asesmen psikolog profesional."
           },
           {
-            "question": "Bagaimana dengan pembaruan ke ke depannya?",
-            "answer": "Anda akan mendapatkan pembaruan secara gratis."
+            "question": "Apakah hasilnya selalu akurat?",
+            "answer": "Keakuratan sangat bergantung pada kejujuran dan kelengkapan jawaban yang Anda berikan."
           },
           {
-            "question": "Apakah ada batasan penggunaan?",
-            "answer": "Produk ini bebas digunakan tanpa batasan harian."
+            "question": "Apakah cocok untuk mahasiswa?",
+            "answer": "Ya. Sangat membantu menentukan arah belajar, memilih jurusan lanjutan, maupun mempersiapkan karier."
           },
           {
-            "question": "Apakah saya bisa menyesuaikannya dengan kebutuhan saya?",
-            "answer": "Sangat bisa, fleksibilitas adalah salah satu keunggulan kami."
+            "question": "Berapa lama proses analisisnya?",
+            "answer": "Hanya beberapa menit setelah seluruh pertanyaan selesai dijawab."
+          },
+          {
+            "question": "Bisakah digunakan berkali-kali?",
+            "answer": "Tentu. Anda dapat mengulang analisis kapan pun untuk melihat perkembangan diri dari waktu ke waktu."
           }
         ]
       },
-      "pricing": {
-        "title": "Transformasi Dimulai dari Sini",
-        "subtitle": "Ambil langkah pertama untuk mengoptimalkan cara kerja Anda.",
-        "originalPrice": "Rp 299.000",
-        "currentPrice": "Rp 99.000",
-        "features": [
-          "Akses penuh seumur hidup",
-          "Dokumentasi dan panduan langkah",
-          "Gratis update sistem secara berkala",
-          "Kompatibel untuk berbagai platform"
-        ],
-        "bonuses": [
-          "Materi eksklusif tambahan",
-          "Akses komunitas prioritas"
-        ],
-        "cta": {
-          "text": "Amankan Akses Sekarang",
-          "href": "#"
-        }
-      }
+      "showcaseImages": [
+        "placeholder-showcase-1.png",
+        "placeholder-showcase-2.png"
+      ]
     },
     {
       "slug": "digital-product-maker",
-      "name": "Gem End-to-End Digital Product Maker",
+      "name": "ForgeStudio",
       "badge": "System / Framework",
       "description": "Sistem komprehensif yang membantu mengubah ide mentah menjadi konsep produk digital yang siap dikembangkan.",
       "status": "research",
       "icon": "beaker",
       "hero": {
-        "title": "Gem End-to-End Digital Product Maker",
-        "description": "Sistem komprehensif yang membantu mengubah ide mentah menjadi konsep produk digital yang siap dikembangkan.",
+        "title": "Studi Kasus: ForgeStudio",
+        "description": "Gem End-to-End Digital Product Maker adalah sistem AI dan framework terintegrasi yang memandu Anda melalui seluruh proses membangun produk digital—mulai dari validasi ide, riset pasar, perancangan fitur, hingga penyusunan roadmap pengembangan.",
         "primaryCta": {
-          "text": "Dapatkan Akses Sekarang",
-          "href": "#"
+          "text": "Lihat Halaman Produk",
+          "href": "/products/digital-product-maker"
         },
         "secondaryCta": {
-          "text": "Pelajari Lebih Lanjut ↓",
+          "text": "Baca Studi Kasus ↓",
           "href": "#masalah"
         }
       },
       "trustBar": [
-        "Kualitas Terjamin",
-        "Dukungan Penuh",
-        "Akses Selamanya",
-        "Desain Modern"
+        "Idea Validation",
+        "Product Blueprint",
+        "Feature Planning",
+        "Launch Strategy"
       ],
       "problems": {
-        "title": "Apakah Anda Menghadapi Masalah Ini?",
-        "subtitle": "Identifikasi Masalah",
+        "title": "Tantangan Pengembangan",
+        "subtitle": "Masalah yang Dipecahkan",
         "items": [
           {
-            "id": "p1",
-            "title": "Tidak Ada Waktu",
-            "description": "Menghabiskan terlalu banyak waktu untuk hal-hal yang seharusnya bisa diotomatisasi.",
-            "icon": "clock"
-          },
-          {
-            "id": "p2",
-            "title": "Kebingungan Memulai",
-            "description": "Ide ada, tetapi bingung bagaimana mengeksekusinya dengan langkah yang benar.",
-            "icon": "brain-off"
-          },
-          {
-            "id": "p3",
-            "title": "Kualitas Kurang Maksimal",
-            "description": "Hasil pekerjaan belum mencapai standar profesional yang diharapkan.",
+            "id": "ide-notes",
+            "title": "Ide Banyak, Tidak Pernah Jadi Produk",
+            "description": "Setiap minggu muncul ide baru. Semuanya terdengar menarik, tetapi berhenti sebagai catatan di aplikasi Notes tanpa pernah dieksekusi.",
             "icon": "edit-3"
           },
           {
-            "id": "p4",
-            "title": "Susah Menemukan Data",
-            "description": "Kesulitan dalam meriset atau mengumpulkan informasi relevan dengan cepat.",
+            "id": "mulai-mana",
+            "title": "Bingung Mulai dari Mana",
+            "description": "Ingin membuat aplikasi, website, AI, atau SaaS, tetapi tidak tahu langkah pertama yang harus dilakukan.",
             "icon": "search"
+          },
+          {
+            "id": "risiko",
+            "title": "Takut Membangun Produk yang Tidak Dibutuhkan",
+            "description": "Sudah menghabiskan waktu berbulan-bulan mengembangkan sesuatu, tetapi ternyata tidak ada yang benar-benar membutuhkan.",
+            "icon": "brain-off"
+          },
+          {
+            "id": "fitur-banyak",
+            "title": "Fitur Terlalu Banyak",
+            "description": "Semua ide ingin dimasukkan sekaligus hingga produk menjadi rumit, lama selesai, dan akhirnya tidak pernah diluncurkan.",
+            "icon": "clock"
+          },
+          {
+            "id": "komunikasi",
+            "title": "Sulit Menjelaskan Ide kepada Developer",
+            "description": "Punya gambaran di kepala, tetapi kesulitan menuangkannya menjadi spesifikasi yang jelas sehingga sering terjadi miskomunikasi.",
+            "icon": "languages"
           }
         ],
         "highlightedItem": {
-          "id": "p5",
-          "title": "Kehilangan Momentum",
-          "description": "Banyak peluang terlewatkan karena eksekusi yang lambat dan kurangnya sistem.",
+          "id": "sebagian",
+          "title": "AI Hanya Membantu Sebagian Proses",
+          "description": "Sebagian AI hanya membantu brainstorming, sebagian hanya membuat dokumen, sebagian lagi hanya membuat kode. Tidak ada sistem yang menyatukan semuanya menjadi satu alur kerja.",
           "icon": "bot"
         }
       },
       "solution": {
-        "title": "Kami Punya Solusinya",
+        "title": "Pendekatan Solusi (Arsitektur Sistem)",
         "description": [
-          "Produk ini dirancang khusus sebagai alat bantu mutakhir untuk mengatasi hambatan tersebut.",
-          "Mengintegrasikan teknologi dan pendekatan sistematis sehingga Anda dapat mencapai target dengan lebih mudah."
+          "Gem End-to-End Digital Product Maker adalah sistem yang dirancang untuk mengubah ide mentah menjadi blueprint produk digital yang matang.",
+          "Sistem ini memandu Anda langkah demi langkah mulai dari menemukan masalah yang layak diselesaikan, memvalidasi kebutuhan pasar, menentukan target pengguna, menyusun value proposition, merancang fitur prioritas, membuat struktur database sederhana, menyiapkan dokumen teknis, hingga menyusun roadmap pengembangan produk."
         ],
-        "quote": "\"Investasi terbaik adalah pada alat dan sistem yang melipatgandakan nilai waktu Anda.\"",
+        "quote": "\"Produk yang baik tidak lahir dari ide yang hebat, tetapi dari proses yang benar. Sistem ini membantu memastikan Anda membangun sesuatu yang benar-benar layak dibuat.\"",
         "cta": {
-          "text": "Mulai Perjalanan Anda",
-          "href": "#"
+          "text": "Lihat Alur Kerja",
+          "href": "#how-it-works"
         }
       },
       "howItWorks": {
-        "title": "Cara Kerja Sistem",
-        "subtitle": "Tiga langkah mudah untuk melihat perubahan nyata.",
+        "title": "Hanya 3 Langkah",
+        "subtitle": "Mengubah coretan ide Anda menjadi lembar spesifikasi teknis siap bangun.",
         "steps": [
           {
-            "id": "s1",
+            "id": "step-1",
             "stepNumber": 1,
-            "title": "Identifikasi",
-            "description": "Kenali apa yang menjadi fokus utama Anda saat ini."
+            "title": "Ceritakan Ide Anda",
+            "description": "Tidak perlu lengkap. Cukup jelaskan masalah yang ingin diselesaikan atau gambaran kasar produk yang ingin dibuat."
           },
           {
-            "id": "s2",
+            "id": "step-2",
             "stepNumber": 2,
-            "title": "Implementasi",
-            "description": "Terapkan langkah-langkah yang ada di dalam produk."
+            "title": "Biarkan Sistem Menyusun Blueprint",
+            "description": "AI akan membantu memvalidasi ide, menyusun target pengguna, fitur inti, user flow, roadmap, model bisnis, hingga spesifikasi awal."
           },
           {
-            "id": "s3",
+            "id": "step-3",
             "stepNumber": 3,
-            "title": "Optimalisasi",
-            "description": "Nikmati efisiensi dan terus kembangkan proses Anda."
+            "title": "Bangun dengan Lebih Percaya Diri",
+            "description": "Gunakan blueprint tersebut sebagai panduan untuk mengembangkan produk sendiri atau menyerahkannya kepada developer."
           }
         ]
       },
       "benefits": {
-        "title": "Keuntungan yang Akan Anda Dapatkan",
+        "title": "Hasil & Dampak",
         "items": [
           {
-            "id": "b1",
-            "title": "Lebih Cepat",
-            "description": "Proses yang tadinya berjam-jam kini bisa selesai dalam hitungan menit.",
+            "id": "eksekusi",
+            "title": "Tidak Hanya Brainstorming",
+            "description": "Sistem tidak berhenti pada ide, tetapi membantu mengubahnya menjadi dokumen yang siap dieksekusi.",
             "icon": "timer"
           },
           {
-            "id": "b2",
-            "title": "Lebih Terstruktur",
-            "description": "Semua tertata dengan pola yang jelas dan mudah diikuti.",
+            "id": "resiko",
+            "title": "Mengurangi Risiko Gagal",
+            "description": "Dengan validasi sejak awal, Anda dapat menghindari membangun produk yang tidak memiliki kebutuhan pasar.",
+            "icon": "search"
+          },
+          {
+            "id": "blueprint",
+            "title": "Blueprint yang Terstruktur",
+            "description": "Semua aspek penting disusun secara sistematis sehingga mudah dipahami oleh founder maupun developer.",
             "icon": "layout-list"
           },
           {
-            "id": "b3",
-            "title": "Adaptif",
-            "description": "Bisa disesuaikan dengan berbagai skenario penggunaan.",
+            "id": "mvp",
+            "title": "Fokus pada MVP",
+            "description": "Membantu menentukan fitur yang benar-benar penting agar produk dapat diluncurkan lebih cepat.",
             "icon": "languages"
           },
           {
-            "id": "b4",
-            "title": "Dukungan Pengetahuan",
-            "description": "Dilengkapi dengan panduan dan *best practices* industri.",
+            "id": "nontech",
+            "title": "Cocok untuk Founder Non-Teknis",
+            "description": "Anda tidak perlu memiliki latar belakang pemrograman untuk mulai merancang produk digital.",
             "icon": "book-open"
           }
         ],
         "highlightedItem": {
-          "id": "b5",
-          "title": "Desain Spesifik",
-          "description": "Dibangun bukan sebagai *tools* umum, melainkan solusi yang tajam untuk target penggunanya.",
+          "id": "berkali",
+          "title": "Dapat Digunakan Berkali-kali",
+          "description": "Bangun sebanyak mungkin ide produk tanpa harus mengulang proses dari nol.",
           "icon": "mic"
         }
       },
       "faq": {
-        "title": "Pertanyaan Umum",
+        "title": "Pertanyaan Seputar Pengembangan",
         "items": [
           {
-            "question": "Apakah saya memerlukan keahlian khusus?",
-            "answer": "Tidak, produk ini dirancang ramah pengguna dan dilengkapi panduan."
+            "question": "Apakah sistem ini bisa membuat aplikasi secara otomatis?",
+            "answer": "Tidak. Sistem ini membantu menyusun seluruh perencanaan dan blueprint produk. Proses pengembangan tetap dilakukan menggunakan platform atau developer pilihan Anda."
           },
           {
-            "question": "Bagaimana dengan pembaruan ke ke depannya?",
-            "answer": "Anda akan mendapatkan pembaruan secara gratis."
+            "question": "Apakah hanya untuk startup?",
+            "answer": "Tidak. Cocok untuk siapa saja yang ingin membuat website, AI Assistant, SaaS, aplikasi mobile, sistem internal perusahaan, maupun produk digital lainnya."
           },
           {
-            "question": "Apakah ada batasan penggunaan?",
-            "answer": "Produk ini bebas digunakan tanpa batasan harian."
+            "question": "Apakah saya harus bisa coding?",
+            "answer": "Tidak sama sekali. Sistem ini dirancang agar founder non-teknis tetap mampu merancang produk secara profesional."
           },
           {
-            "question": "Apakah saya bisa menyesuaikannya dengan kebutuhan saya?",
-            "answer": "Sangat bisa, fleksibilitas adalah salah satu keunggulan kami."
+            "question": "Apakah hasilnya bisa langsung diberikan kepada developer?",
+            "answer": "Ya. Justru salah satu tujuan utama sistem ini adalah menghasilkan dokumen yang jauh lebih mudah dipahami oleh tim pengembang."
+          },
+          {
+            "question": "Apakah satu akses bisa digunakan untuk banyak ide?",
+            "answer": "Ya. Anda bebas menggunakan framework ini untuk sebanyak mungkin produk digital."
           }
         ]
       },
-      "pricing": {
-        "title": "Transformasi Dimulai dari Sini",
-        "subtitle": "Ambil langkah pertama untuk mengoptimalkan cara kerja Anda.",
-        "originalPrice": "Rp 299.000",
-        "currentPrice": "Rp 99.000",
-        "features": [
-          "Akses penuh seumur hidup",
-          "Dokumentasi dan panduan langkah",
-          "Gratis update sistem secara berkala",
-          "Kompatibel untuk berbagai platform"
-        ],
-        "bonuses": [
-          "Materi eksklusif tambahan",
-          "Akses komunitas prioritas"
-        ],
-        "cta": {
-          "text": "Amankan Akses Sekarang",
-          "href": "#"
-        }
-      }
+      "showcaseImages": [
+        "placeholder-showcase-1.png",
+        "placeholder-showcase-2.png"
+      ]
     },
     {
       "slug": "cv-maker",
-      "name": "Gem/GPT CV Maker, Optimizer & Analyzer",
+      "name": "CareerPilot",
       "badge": "AI Tool",
       "description": "Tool cerdas untuk membantu membuat, memperbaiki, dan menganalisis CV agar sesuai standar industri terkini.",
       "status": "research",
       "icon": "document",
       "hero": {
-        "title": "Gem/GPT CV Maker, Optimizer & Analyzer",
-        "description": "Tool cerdas untuk membantu membuat, memperbaiki, dan menganalisis CV agar sesuai standar industri terkini.",
+        "title": "Studi Kasus: CareerPilot",
+        "description": "Gem CV Maker, Optimizer & Analyzer membantu Anda membuat, memperbaiki, menganalisis, dan mengoptimalkan CV agar lebih profesional, ATS-friendly, serta mampu menampilkan potensi terbaik Anda kepada recruiter.",
         "primaryCta": {
-          "text": "Dapatkan Akses Sekarang",
-          "href": "#"
+          "text": "Lihat Halaman Produk",
+          "href": "/products/cv-maker"
         },
         "secondaryCta": {
-          "text": "Pelajari Lebih Lanjut ↓",
+          "text": "Baca Studi Kasus ↓",
           "href": "#masalah"
         }
       },
       "trustBar": [
-        "Kualitas Terjamin",
-        "Dukungan Penuh",
-        "Akses Selamanya",
-        "Desain Modern"
+        "ATS Friendly",
+        "CV Analyzer",
+        "Professional Rewrite",
+        "Career Optimization"
       ],
       "problems": {
-        "title": "Apakah Anda Menghadapi Masalah Ini?",
-        "subtitle": "Identifikasi Masalah",
+        "title": "Tantangan Pengembangan",
+        "subtitle": "Masalah yang Dipecahkan",
         "items": [
           {
-            "id": "p1",
-            "title": "Tidak Ada Waktu",
-            "description": "Menghabiskan terlalu banyak waktu untuk hal-hal yang seharusnya bisa diotomatisasi.",
-            "icon": "clock"
-          },
-          {
-            "id": "p2",
-            "title": "Kebingungan Memulai",
-            "description": "Ide ada, tetapi bingung bagaimana mengeksekusinya dengan langkah yang benar.",
-            "icon": "brain-off"
-          },
-          {
-            "id": "p3",
-            "title": "Kualitas Kurang Maksimal",
-            "description": "Hasil pekerjaan belum mencapai standar profesional yang diharapkan.",
+            "id": "memulai",
+            "title": "Bingung Memulai Menulis CV",
+            "description": "Membuka Microsoft Word selama berjam-jam, tetapi bahkan bagian pertama CV pun belum selesai.",
             "icon": "edit-3"
           },
           {
-            "id": "p4",
-            "title": "Susah Menemukan Data",
-            "description": "Kesulitan dalam meriset atau mengumpulkan informasi relevan dengan cepat.",
+            "id": "panggilan",
+            "title": "Sudah Kirim Puluhan Lamaran, Tidak Pernah Dipanggil",
+            "description": "Merasa memiliki kemampuan yang cukup, tetapi CV tidak berhasil menarik perhatian recruiter.",
             "icon": "search"
+          },
+          {
+            "id": "tulis",
+            "title": "Tidak Tahu Apa yang Harus Ditulis",
+            "description": "Bingung menjelaskan pengalaman, organisasi, proyek, maupun pencapaian agar terlihat menarik tanpa terkesan berlebihan.",
+            "icon": "brain-off"
+          },
+          {
+            "id": "ats",
+            "title": "Takut CV Tidak Lolos ATS",
+            "description": "Banyak perusahaan menggunakan sistem ATS untuk menyaring CV secara otomatis. Kesalahan format atau pemilihan kata dapat membuat CV gugur bahkan sebelum dibaca HR.",
+            "icon": "clock"
+          },
+          {
+            "id": "fresh",
+            "title": "Fresh Graduate tanpa Pengalaman Kerja",
+            "description": "Merasa minder karena belum memiliki pengalaman profesional dan tidak tahu bagaimana menonjolkan potensi yang dimiliki.",
+            "icon": "languages"
           }
         ],
         "highlightedItem": {
-          "id": "p5",
-          "title": "Kehilangan Momentum",
-          "description": "Banyak peluang terlewatkan karena eksekusi yang lambat dan kurangnya sistem.",
+          "id": "generik",
+          "title": "AI Umum Hanya Membuat CV Biasa",
+          "description": "Sebagian AI hanya merapikan tulisan. Mereka tidak menjelaskan mengapa suatu bagian perlu diperbaiki ataupun bagaimana meningkatkan peluang diterima kerja.",
           "icon": "bot"
         }
       },
       "solution": {
-        "title": "Kami Punya Solusinya",
+        "title": "Pendekatan Solusi (Arsitektur Sistem)",
         "description": [
-          "Produk ini dirancang khusus sebagai alat bantu mutakhir untuk mengatasi hambatan tersebut.",
-          "Mengintegrasikan teknologi dan pendekatan sistematis sehingga Anda dapat mencapai target dengan lebih mudah."
+          "Gem ini merupakan AI Career Assistant yang dirancang khusus untuk membantu seluruh proses penyusunan CV modern.",
+          "Mulai dari membuat CV dari nol, mengevaluasi CV yang sudah ada, memperbaiki struktur dan bahasa, mengoptimalkan kata kunci agar lebih ramah ATS, hingga memberikan saran peningkatan berdasarkan posisi pekerjaan yang dituju."
         ],
-        "quote": "\"Investasi terbaik adalah pada alat dan sistem yang melipatgandakan nilai waktu Anda.\"",
+        "quote": "\"CV bukan sekadar daftar pengalaman. CV adalah dokumen pemasaran yang menjual kemampuan Anda hanya dalam beberapa detik pertama.\"",
         "cta": {
-          "text": "Mulai Perjalanan Anda",
-          "href": "#"
+          "text": "Lihat Alur Kerja",
+          "href": "#how-it-works"
         }
       },
       "howItWorks": {
-        "title": "Cara Kerja Sistem",
-        "subtitle": "Tiga langkah mudah untuk melihat perubahan nyata.",
+        "title": "Hanya 3 Langkah",
+        "subtitle": "Transformasi CV Anda dalam tiga langkah terstruktur menuju standar industri.",
         "steps": [
           {
-            "id": "s1",
+            "id": "step-1",
             "stepNumber": 1,
-            "title": "Identifikasi",
-            "description": "Kenali apa yang menjadi fokus utama Anda saat ini."
+            "title": "Upload atau Ceritakan CV Anda",
+            "description": "Masukkan CV yang sudah dimiliki, atau cukup jelaskan latar belakang pendidikan, pengalaman, dan pekerjaan yang diinginkan."
           },
           {
-            "id": "s2",
+            "id": "step-2",
             "stepNumber": 2,
-            "title": "Implementasi",
-            "description": "Terapkan langkah-langkah yang ada di dalam produk."
+            "title": "AI Menganalisis Seluruh Isi",
+            "description": "Sistem mengevaluasi struktur, tata bahasa, ATS score, kekuatan isi, kelemahan, keyword, hingga daya tarik keseluruhan CV."
           },
           {
-            "id": "s3",
+            "id": "step-3",
             "stepNumber": 3,
-            "title": "Optimalisasi",
-            "description": "Nikmati efisiensi dan terus kembangkan proses Anda."
+            "title": "Gunakan CV yang Lebih Kompetitif",
+            "description": "Terima versi CV yang telah diperbaiki lengkap beserta alasan setiap perubahan dan rekomendasi peningkatan berikutnya."
           }
         ]
       },
       "benefits": {
-        "title": "Keuntungan yang Akan Anda Dapatkan",
+        "title": "Hasil & Dampak",
         "items": [
           {
-            "id": "b1",
-            "title": "Lebih Cepat",
-            "description": "Proses yang tadinya berjam-jam kini bisa selesai dalam hitungan menit.",
+            "id": "rekrutmen",
+            "title": "Dibangun Khusus untuk Dunia Rekrutmen",
+            "description": "Tidak menggunakan template generik, tetapi mengikuti praktik terbaik penyusunan CV modern.",
             "icon": "timer"
           },
           {
-            "id": "b2",
-            "title": "Lebih Terstruktur",
-            "description": "Semua tertata dengan pola yang jelas dan mudah diikuti.",
+            "id": "ats-opt",
+            "title": "ATS-Friendly",
+            "description": "Membantu meningkatkan peluang CV lolos sistem Applicant Tracking System sebelum dibaca recruiter.",
+            "icon": "search"
+          },
+          {
+            "id": "analisis-deep",
+            "title": "Analisis Mendalam",
+            "description": "Tidak hanya memperbaiki tulisan, tetapi menjelaskan kelemahan dan alasan di balik setiap revisi.",
             "icon": "layout-list"
           },
           {
-            "id": "b3",
-            "title": "Adaptif",
-            "description": "Bisa disesuaikan dengan berbagai skenario penggunaan.",
+            "id": "semua-tingkat",
+            "title": "Cocok untuk Semua Tingkatan",
+            "description": "Fresh graduate, mahasiswa, profesional, freelancer, maupun career switcher.",
             "icon": "languages"
           },
           {
-            "id": "b4",
-            "title": "Dukungan Pengetahuan",
-            "description": "Dilengkapi dengan panduan dan *best practices* industri.",
+            "id": "disesuaikan",
+            "title": "Disesuaikan dengan Posisi yang Dilamar",
+            "description": "Isi CV dapat dioptimalkan berdasarkan industri maupun pekerjaan tertentu.",
             "icon": "book-open"
           }
         ],
         "highlightedItem": {
-          "id": "b5",
-          "title": "Desain Spesifik",
-          "description": "Dibangun bukan sebagai *tools* umum, melainkan solusi yang tajam untuk target penggunanya.",
+          "id": "nilai-jual",
+          "title": "Membantu Menjual Nilai Anda",
+          "description": "Fokus pada bagaimana pengalaman Anda dipresentasikan agar lebih meyakinkan.",
           "icon": "mic"
         }
       },
       "faq": {
-        "title": "Pertanyaan Umum",
+        "title": "Pertanyaan Seputar Pengembangan",
         "items": [
           {
-            "question": "Apakah saya memerlukan keahlian khusus?",
-            "answer": "Tidak, produk ini dirancang ramah pengguna dan dilengkapi panduan."
+            "question": "Apakah sistem ini membuat desain CV?",
+            "answer": "Fokus utama sistem adalah kualitas isi, struktur, dan optimasi ATS. Hasilnya dapat dipindahkan ke template desain pilihan Anda."
           },
           {
-            "question": "Bagaimana dengan pembaruan ke ke depannya?",
-            "answer": "Anda akan mendapatkan pembaruan secara gratis."
+            "question": "Apakah cocok untuk fresh graduate?",
+            "answer": "Sangat cocok. Sistem membantu menonjolkan proyek, organisasi, sertifikat, dan kemampuan meskipun belum memiliki pengalaman kerja."
           },
           {
-            "question": "Apakah ada batasan penggunaan?",
-            "answer": "Produk ini bebas digunakan tanpa batasan harian."
+            "question": "Apakah bisa menganalisis CV lama saya?",
+            "answer": "Ya. Anda cukup mengunggah CV lama, lalu sistem akan memberikan analisis lengkap beserta versi revisinya."
           },
           {
-            "question": "Apakah saya bisa menyesuaikannya dengan kebutuhan saya?",
-            "answer": "Sangat bisa, fleksibilitas adalah salah satu keunggulan kami."
+            "question": "Apakah hanya mendukung Bahasa Indonesia?",
+            "answer": "Tidak. Sistem dapat membantu penyusunan CV dalam Bahasa Indonesia maupun Bahasa Inggris."
+          },
+          {
+            "question": "Bisakah digunakan berkali-kali?",
+            "answer": "Ya. Anda bebas mengoptimalkan CV untuk berbagai posisi pekerjaan yang berbeda."
           }
         ]
       },
-      "pricing": {
-        "title": "Transformasi Dimulai dari Sini",
-        "subtitle": "Ambil langkah pertama untuk mengoptimalkan cara kerja Anda.",
-        "originalPrice": "Rp 299.000",
-        "currentPrice": "Rp 99.000",
-        "features": [
-          "Akses penuh seumur hidup",
-          "Dokumentasi dan panduan langkah",
-          "Gratis update sistem secara berkala",
-          "Kompatibel untuk berbagai platform"
-        ],
-        "bonuses": [
-          "Materi eksklusif tambahan",
-          "Akses komunitas prioritas"
-        ],
-        "cta": {
-          "text": "Amankan Akses Sekarang",
-          "href": "#"
-        }
-      }
+      "showcaseImages": [
+        "placeholder-showcase-1.png",
+        "placeholder-showcase-2.png"
+      ]
     },
     {
       "slug": "youtube-analyzer",
-      "name": "Gem YouTube Video Analyzer & Summarizer",
-      "badge": "AI Workflow",
-      "description": "Tool cerdas untuk mengekstrak insight mendalam dan ringkasan dari video berdurasi panjang.",
+      "name": "InsightTube",
+      "badge": "AI Research Assistant",
+      "description": "Tool cerdas untuk mengekstrak ringkasan, alur pembahasan, dan insight penting dari video YouTube.",
       "status": "prototype",
       "icon": "video",
       "hero": {
-        "title": "Gem YouTube Video Analyzer & Summarizer",
-        "description": "Tool cerdas untuk mengekstrak insight mendalam dan ringkasan dari video berdurasi panjang.",
+        "title": "Studi Kasus: InsightTube",
+        "description": "Gem YouTube Video Analyzer & Summarizer membantu Anda menganalisis isi video YouTube secara mendalam, menyusun ringkasan yang terstruktur, mengekstrak insight penting, serta mengubah video panjang menjadi materi belajar yang jauh lebih mudah dipahami.",
         "primaryCta": {
-          "text": "Dapatkan Akses Sekarang",
-          "href": "#"
+          "text": "Lihat Halaman Produk",
+          "href": "/products/youtube-analyzer"
         },
         "secondaryCta": {
-          "text": "Pelajari Lebih Lanjut ↓",
+          "text": "Baca Studi Kasus ↓",
           "href": "#masalah"
         }
       },
       "trustBar": [
-        "Kualitas Terjamin",
-        "Dukungan Penuh",
-        "Akses Selamanya",
-        "Desain Modern"
+        "Smart Summarization",
+        "Deep Content Analysis",
+        "Key Insights Extraction",
+        "Actionable Takeaways"
       ],
       "problems": {
-        "title": "Apakah Anda Menghadapi Masalah Ini?",
-        "subtitle": "Identifikasi Masalah",
+        "title": "Tantangan Pengembangan",
+        "subtitle": "Masalah yang Dipecahkan",
         "items": [
           {
-            "id": "p1",
-            "title": "Tidak Ada Waktu",
-            "description": "Menghabiskan terlalu banyak waktu untuk hal-hal yang seharusnya bisa diotomatisasi.",
+            "id": "video-panjang",
+            "title": "Video Terlalu Panjang",
+            "description": "Ingin belajar dari video berdurasi satu hingga tiga jam, tetapi tidak memiliki cukup waktu untuk menontonnya sampai selesai.",
             "icon": "clock"
           },
           {
-            "id": "p2",
-            "title": "Kebingungan Memulai",
-            "description": "Ide ada, tetapi bingung bagaimana mengeksekusinya dengan langkah yang benar.",
+            "id": "lupa-isi",
+            "title": "Lupa Isi Video",
+            "description": "Baru beberapa hari setelah menonton, sebagian besar isi video sudah terlupakan karena tidak memiliki catatan yang rapi.",
             "icon": "brain-off"
           },
           {
-            "id": "p3",
-            "title": "Kualitas Kurang Maksimal",
-            "description": "Hasil pekerjaan belum mencapai standar profesional yang diharapkan.",
+            "id": "poin-penting",
+            "title": "Sulit Menemukan Poin Penting",
+            "description": "Video dipenuhi cerita, candaan, atau pembahasan yang berputar-putar sehingga sulit mengetahui inti sebenarnya.",
+            "icon": "search"
+          },
+          {
+            "id": "nonton-ulang",
+            "title": "Harus Menonton Ulang Berkali-kali",
+            "description": "Saat membutuhkan informasi tertentu, Anda harus mengulang video dari awal hanya untuk mencari satu bagian kecil.",
             "icon": "edit-3"
           },
           {
-            "id": "p4",
-            "title": "Susah Menemukan Data",
-            "description": "Kesulitan dalam meriset atau mengumpulkan informasi relevan dengan cepat.",
-            "icon": "search"
+            "id": "praktek",
+            "title": "Belajar Banyak, Tapi Tidak Tahu Apa yang Harus Dilakukan",
+            "description": "Sudah selesai menonton, tetapi bingung bagaimana menerapkan ilmu yang baru dipelajari.",
+            "icon": "languages"
           }
         ],
         "highlightedItem": {
-          "id": "p5",
-          "title": "Kehilangan Momentum",
-          "description": "Banyak peluang terlewatkan karena eksekusi yang lambat dan kurangnya sistem.",
+          "id": "ringkasan-pendek",
+          "title": "AI Umum Hanya Memberikan Ringkasan Pendek",
+          "description": "Sebagian AI hanya menghasilkan beberapa paragraf singkat tanpa menjelaskan struktur materi, argumen pembicara, maupun insight yang benar-benar penting.",
           "icon": "bot"
         }
       },
       "solution": {
-        "title": "Kami Punya Solusinya",
+        "title": "Pendekatan Solusi (Arsitektur Sistem)",
         "description": [
-          "Produk ini dirancang khusus sebagai alat bantu mutakhir untuk mengatasi hambatan tersebut.",
-          "Mengintegrasikan teknologi dan pendekatan sistematis sehingga Anda dapat mencapai target dengan lebih mudah."
+          "Gem ini dirancang khusus untuk membantu Anda memperoleh manfaat maksimal dari setiap video YouTube.",
+          "Bukan sekadar membuat ringkasan, sistem ini mampu mengidentifikasi topik utama, menjelaskan alur pembahasan, mengekstrak insight penting, menyusun poin-poin pembelajaran, menemukan rekomendasi tindakan, hingga menjawab pertanyaan berdasarkan isi video."
         ],
-        "quote": "\"Investasi terbaik adalah pada alat dan sistem yang melipatgandakan nilai waktu Anda.\"",
+        "quote": "\"Tujuan sistem ini bukan menggantikan proses belajar, tetapi membuat waktu belajar Anda jauh lebih efisien dan terarah.\"",
         "cta": {
-          "text": "Mulai Perjalanan Anda",
-          "href": "#"
+          "text": "Lihat Alur Kerja",
+          "href": "#how-it-works"
         }
       },
       "howItWorks": {
-        "title": "Cara Kerja Sistem",
-        "subtitle": "Tiga langkah mudah untuk melihat perubahan nyata.",
+        "title": "Hanya 3 Langkah",
+        "subtitle": "Alur pemrosesan video yang sederhana dan instan.",
         "steps": [
           {
-            "id": "s1",
+            "id": "step-1",
             "stepNumber": 1,
-            "title": "Identifikasi",
-            "description": "Kenali apa yang menjadi fokus utama Anda saat ini."
+            "title": "Kirim Link Video YouTube",
+            "description": "Cukup tempelkan URL video yang ingin dipelajari."
           },
           {
-            "id": "s2",
+            "id": "step-2",
             "stepNumber": 2,
-            "title": "Implementasi",
-            "description": "Terapkan langkah-langkah yang ada di dalam produk."
+            "title": "Biarkan AI Menganalisis",
+            "description": "Gem akan membaca isi video, memahami struktur pembahasannya, lalu menyusun analisis yang sistematis."
           },
           {
-            "id": "s3",
+            "id": "step-3",
             "stepNumber": 3,
-            "title": "Optimalisasi",
-            "description": "Nikmati efisiensi dan terus kembangkan proses Anda."
+            "title": "Pelajari Hasilnya",
+            "description": "Terima ringkasan lengkap, insight utama, poin penting, rekomendasi tindakan, serta jawaban atas pertanyaan yang ingin Anda ketahui."
           }
         ]
       },
       "benefits": {
-        "title": "Keuntungan yang Akan Anda Dapatkan",
+        "title": "Hasil & Dampak",
         "items": [
           {
-            "id": "b1",
-            "title": "Lebih Cepat",
-            "description": "Proses yang tadinya berjam-jam kini bisa selesai dalam hitungan menit.",
+            "id": "terstruktur",
+            "title": "Ringkasan yang Terstruktur",
+            "description": "Informasi disusun mengikuti alur pembahasan sehingga lebih mudah dipahami daripada ringkasan acak.",
             "icon": "timer"
           },
           {
-            "id": "b2",
-            "title": "Lebih Terstruktur",
-            "description": "Semua tertata dengan pola yang jelas dan mudah diikuti.",
+            "id": "mendalam",
+            "title": "Analisis Lebih Mendalam",
+            "description": "Tidak hanya menjelaskan apa yang dibahas, tetapi juga mengapa pembahasan tersebut penting.",
+            "icon": "search"
+          },
+          {
+            "id": "hemat-waktu",
+            "title": "Hemat Banyak Waktu",
+            "description": "Video berdurasi berjam-jam dapat dipahami jauh lebih cepat tanpa kehilangan inti pembahasannya.",
             "icon": "layout-list"
           },
           {
-            "id": "b3",
-            "title": "Adaptif",
-            "description": "Bisa disesuaikan dengan berbagai skenario penggunaan.",
+            "id": "praktek-insight",
+            "title": "Insight yang Bisa Dipraktikkan",
+            "description": "Setiap analisis dilengkapi dengan langkah konkret yang dapat langsung diterapkan.",
             "icon": "languages"
           },
           {
-            "id": "b4",
-            "title": "Dukungan Pengetahuan",
-            "description": "Dilengkapi dengan panduan dan *best practices* industri.",
+            "id": "konten-cocok",
+            "title": "Cocok untuk Berbagai Jenis Konten",
+            "description": "Podcast, kuliah online, seminar, kajian, dokumenter, wawancara, review buku, hingga presentasi bisnis.",
             "icon": "book-open"
           }
         ],
         "highlightedItem": {
-          "id": "b5",
-          "title": "Desain Spesifik",
-          "description": "Dibangun bukan sebagai *tools* umum, melainkan solusi yang tajam untuk target penggunanya.",
+          "id": "efektif-belajar",
+          "title": "Belajar Lebih Efektif",
+          "description": "Membantu mengubah video menjadi materi belajar yang lebih mudah diingat.",
           "icon": "mic"
         }
       },
       "faq": {
-        "title": "Pertanyaan Umum",
+        "title": "Pertanyaan Seputar Pengembangan",
         "items": [
           {
-            "question": "Apakah saya memerlukan keahlian khusus?",
-            "answer": "Tidak, produk ini dirancang ramah pengguna dan dilengkapi panduan."
+            "question": "Apakah semua video bisa dianalisis?",
+            "answer": "Selama video memiliki konten yang dapat dipahami AI, sistem dapat membantu membuat analisisnya."
           },
           {
-            "question": "Bagaimana dengan pembaruan ke ke depannya?",
-            "answer": "Anda akan mendapatkan pembaruan secara gratis."
+            "question": "Apakah hanya membuat ringkasan?",
+            "answer": "Tidak. Sistem juga menyusun insight, poin penting, argumen utama, rekomendasi tindakan, serta dapat menjawab pertanyaan berdasarkan isi video."
           },
           {
-            "question": "Apakah ada batasan penggunaan?",
-            "answer": "Produk ini bebas digunakan tanpa batasan harian."
+            "question": "Apakah cocok untuk mahasiswa?",
+            "answer": "Sangat cocok. Membantu meringkas kuliah online, webinar, maupun video pembelajaran dengan cepat."
           },
           {
-            "question": "Apakah saya bisa menyesuaikannya dengan kebutuhan saya?",
-            "answer": "Sangat bisa, fleksibilitas adalah salah satu keunggulan kami."
+            "question": "Apakah cocok untuk content creator?",
+            "answer": "Ya. Sistem membantu mempelajari strategi, struktur penyampaian, dan ide dari video-video inspiratif."
+          },
+          {
+            "question": "Apakah bisa digunakan tanpa pengetahuan teknis?",
+            "answer": "Tentu. Anda cukup menempelkan link video, kemudian sistem akan melakukan seluruh proses analisis."
           }
         ]
       },
-      "pricing": {
-        "title": "Transformasi Dimulai dari Sini",
-        "subtitle": "Ambil langkah pertama untuk mengoptimalkan cara kerja Anda.",
-        "originalPrice": "Rp 299.000",
-        "currentPrice": "Rp 99.000",
-        "features": [
-          "Akses penuh seumur hidup",
-          "Dokumentasi dan panduan langkah",
-          "Gratis update sistem secara berkala",
-          "Kompatibel untuk berbagai platform"
-        ],
-        "bonuses": [
-          "Materi eksklusif tambahan",
-          "Akses komunitas prioritas"
-        ],
-        "cta": {
-          "text": "Amankan Akses Sekarang",
-          "href": "#"
-        }
-      }
+      "showcaseImages": [
+        "placeholder-showcase-1.png",
+        "placeholder-showcase-2.png"
+      ]
     },
     {
       "slug": "website-etalase",
-      "name": "Website Etalase Produk Digital",
-      "badge": "Web Platform",
-      "description": "Platform terintegrasi untuk menampilkan dan menjual berbagai produk digital yang dikembangkan di bawah ekosistem Iman Logics.",
+      "name": "Digital Showcase Kit",
+      "badge": "Website Template",
+      "description": "Template website portfolio dan etalase produk digital modern untuk memamerkan karya dan produk Anda secara profesional.",
       "status": "inprogress",
       "icon": "globe",
       "hero": {
-        "title": "Website Etalase Produk Digital",
-        "description": "Platform terintegrasi untuk menampilkan dan menjual berbagai produk digital yang dikembangkan di bawah ekosistem Iman Logics.",
+        "title": "Studi Kasus: Digital Showcase Kit",
+        "description": "Website Etalase Produk Digital membantu Anda menampilkan seluruh produk digital dalam satu website modern, cepat, responsif, dan mudah dikelola—sehingga calon pembeli lebih percaya, lebih mudah menjelajah, dan lebih yakin untuk membeli.",
         "primaryCta": {
-          "text": "Dapatkan Akses Sekarang",
-          "href": "#"
+          "text": "Lihat Halaman Produk",
+          "href": "/products/website-etalase"
         },
         "secondaryCta": {
-          "text": "Pelajari Lebih Lanjut ↓",
+          "text": "Baca Studi Kasus ↓",
           "href": "#masalah"
         }
       },
       "trustBar": [
-        "Kualitas Terjamin",
-        "Dukungan Penuh",
-        "Akses Selamanya",
-        "Desain Modern"
+        "Modern Landing Page",
+        "Product Showcase",
+        "Mobile Responsive",
+        "No Coding Required"
       ],
       "problems": {
-        "title": "Apakah Anda Menghadapi Masalah Ini?",
-        "subtitle": "Identifikasi Masalah",
+        "title": "Tantangan Pengembangan",
+        "subtitle": "Masalah yang Dipecahkan",
         "items": [
           {
-            "id": "p1",
-            "title": "Tidak Ada Waktu",
-            "description": "Menghabiskan terlalu banyak waktu untuk hal-hal yang seharusnya bisa diotomatisasi.",
-            "icon": "clock"
-          },
-          {
-            "id": "p2",
-            "title": "Kebingungan Memulai",
-            "description": "Ide ada, tetapi bingung bagaimana mengeksekusinya dengan langkah yang benar.",
-            "icon": "brain-off"
-          },
-          {
-            "id": "p3",
-            "title": "Kualitas Kurang Maksimal",
-            "description": "Hasil pekerjaan belum mencapai standar profesional yang diharapkan.",
+            "id": "berantakan",
+            "title": "Produk Sudah Banyak, Tapi Berantakan",
+            "description": "File PDF, eBook, template, prompt AI, kursus, dan layanan tersebar di berbagai platform sehingga calon pembeli kebingungan mencarinya.",
             "icon": "edit-3"
           },
           {
-            "id": "p4",
-            "title": "Susah Menemukan Data",
-            "description": "Kesulitan dalam meriset atau mengumpulkan informasi relevan dengan cepat.",
+            "id": "kurang-profesional",
+            "title": "Terlihat Kurang Profesional",
+            "description": "Masih mengandalkan Google Drive, Linktree, atau chat WhatsApp untuk menawarkan produk, sehingga kepercayaan calon pelanggan menjadi lebih rendah.",
             "icon": "search"
+          },
+          {
+            "id": "berulang",
+            "title": "Harus Menjelaskan Produk Berulang Kali",
+            "description": "Setiap ada orang bertanya, Anda kembali mengetik penjelasan yang sama tentang manfaat, harga, bonus, dan cara membeli.",
+            "icon": "brain-off"
+          },
+          {
+            "id": "sulit-tambah",
+            "title": "Sulit Menambah Produk Baru",
+            "description": "Setiap kali membuat produk baru, Anda harus membuat halaman dari awal atau mengubah banyak bagian website.",
+            "icon": "clock"
+          },
+          {
+            "id": "no-coding",
+            "title": "Tidak Punya Kemampuan Coding",
+            "description": "Ingin memiliki website sendiri, tetapi tidak mengerti HTML, CSS, JavaScript, ataupun framework web modern.",
+            "icon": "languages"
           }
         ],
         "highlightedItem": {
-          "id": "p5",
-          "title": "Kehilangan Momentum",
-          "description": "Banyak peluang terlewatkan karena eksekusi yang lambat dan kurangnya sistem.",
+          "id": "rumit",
+          "title": "Website Terlalu Rumit Dikelola",
+          "description": "Sebagian platform membutuhkan server yang kompleks, dashboard yang membingungkan, atau biaya langganan bulanan yang terus bertambah.",
           "icon": "bot"
         }
       },
       "solution": {
-        "title": "Kami Punya Solusinya",
+        "title": "Pendekatan Solusi (Arsitektur Sistem)",
         "description": [
-          "Produk ini dirancang khusus sebagai alat bantu mutakhir untuk mengatasi hambatan tersebut.",
-          "Mengintegrasikan teknologi dan pendekatan sistematis sehingga Anda dapat mencapai target dengan lebih mudah."
+          "Website Etalase Produk Digital adalah template website modern yang dirancang khusus untuk para creator, freelancer, founder, educator, dan digital entrepreneur yang ingin menjual berbagai produk digital secara profesional.",
+          "Mulai dari AI Assistant, Prompt, Template, eBook, Course, Jasa, hingga Software—semuanya dapat ditampilkan dalam satu website yang rapi, cepat, dan mudah dinavigasi.",
+          "Website ini dibangun dengan arsitektur modern sehingga mudah dikustomisasi, ringan, SEO-friendly, dan siap dikembangkan sesuai kebutuhan bisnis Anda."
         ],
-        "quote": "\"Investasi terbaik adalah pada alat dan sistem yang melipatgandakan nilai waktu Anda.\"",
+        "quote": "\"Produk yang hebat layak dipresentasikan dengan cara yang hebat. Website yang profesional bukan hanya meningkatkan kepercayaan, tetapi juga membantu pengunjung mengambil keputusan lebih cepat.\"",
         "cta": {
-          "text": "Mulai Perjalanan Anda",
-          "href": "#"
+          "text": "Lihat Alur Kerja",
+          "href": "#how-it-works"
         }
       },
       "howItWorks": {
-        "title": "Cara Kerja Sistem",
-        "subtitle": "Tiga langkah mudah untuk melihat perubahan nyata.",
+        "title": "Hanya 3 Langkah",
+        "subtitle": "Luncurkan etalase digital premium Anda dalam hitungan menit.",
         "steps": [
           {
-            "id": "s1",
+            "id": "step-1",
             "stepNumber": 1,
-            "title": "Identifikasi",
-            "description": "Kenali apa yang menjadi fokus utama Anda saat ini."
+            "title": "Ganti Identitas Brand",
+            "description": "Ubah logo, nama bisnis, warna, dan informasi kontak sesuai identitas Anda."
           },
           {
-            "id": "s2",
+            "id": "step-2",
             "stepNumber": 2,
-            "title": "Implementasi",
-            "description": "Terapkan langkah-langkah yang ada di dalam produk."
+            "title": "Tambahkan Produk Digital",
+            "description": "Masukkan produk, deskripsi, gambar, harga, bonus, serta tautan pembelian tanpa harus mengubah struktur website."
           },
           {
-            "id": "s3",
+            "id": "step-3",
             "stepNumber": 3,
-            "title": "Optimalisasi",
-            "description": "Nikmati efisiensi dan terus kembangkan proses Anda."
+            "title": "Publikasikan Website",
+            "description": "Deploy ke hosting pilihan Anda dan mulai membagikan website kepada calon pelanggan."
           }
         ]
       },
       "benefits": {
-        "title": "Keuntungan yang Akan Anda Dapatkan",
+        "title": "Hasil & Dampak",
         "items": [
           {
-            "id": "b1",
-            "title": "Lebih Cepat",
-            "description": "Proses yang tadinya berjam-jam kini bisa selesai dalam hitungan menit.",
+            "id": "khusus-digital",
+            "title": "Dibuat Khusus untuk Produk Digital",
+            "description": "Bukan template bisnis umum. Struktur halaman dirancang agar mampu menjelaskan produk digital dengan jelas dan meningkatkan konversi.",
             "icon": "timer"
           },
           {
-            "id": "b2",
-            "title": "Lebih Terstruktur",
-            "description": "Semua tertata dengan pola yang jelas dan mudah diikuti.",
+            "id": "modern-premium",
+            "title": "Desain Modern & Premium",
+            "description": "Tampilan bersih, minimalis, profesional, dan nyaman digunakan baik di desktop maupun smartphone.",
+            "icon": "search"
+          },
+          {
+            "id": "kustomisasi",
+            "title": "Sangat Mudah Dikustomisasi",
+            "description": "Seluruh teks, gambar, warna, produk, dan identitas brand dapat diubah tanpa harus membangun website dari nol.",
             "icon": "layout-list"
           },
           {
-            "id": "b3",
-            "title": "Adaptif",
-            "description": "Bisa disesuaikan dengan berbagai skenario penggunaan.",
+            "id": "ringan-cepat",
+            "title": "Ringan dan Cepat",
+            "description": "Website dioptimalkan agar memiliki performa tinggi sehingga pengalaman pengguna tetap nyaman.",
             "icon": "languages"
           },
           {
-            "id": "b4",
-            "title": "Dukungan Pengetahuan",
-            "description": "Dilengkapi dengan panduan dan *best practices* industri.",
+            "id": "seo-friendly",
+            "title": "SEO-Friendly",
+            "description": "Struktur website disiapkan agar lebih mudah diindeks mesin pencari dan memiliki peluang lebih baik muncul di hasil pencarian.",
             "icon": "book-open"
           }
         ],
         "highlightedItem": {
-          "id": "b5",
-          "title": "Desain Spesifik",
-          "description": "Dibangun bukan sebagai *tools* umum, melainkan solusi yang tajam untuk target penggunanya.",
+          "id": "bertumbuh",
+          "title": "Siap Bertumbuh Bersama Bisnis Anda",
+          "description": "Mulai dari satu produk hingga puluhan produk digital, struktur website tetap rapi dan mudah dikelola.",
           "icon": "mic"
         }
       },
       "faq": {
-        "title": "Pertanyaan Umum",
+        "title": "Pertanyaan Seputar Pengembangan",
         "items": [
           {
-            "question": "Apakah saya memerlukan keahlian khusus?",
-            "answer": "Tidak, produk ini dirancang ramah pengguna dan dilengkapi panduan."
+            "question": "Apakah saya harus bisa coding?",
+            "answer": "Tidak harus. Sebagian besar konten dapat diubah melalui file konfigurasi yang sederhana. Pengetahuan dasar akan membantu jika ingin melakukan kustomisasi lebih lanjut."
           },
           {
-            "question": "Bagaimana dengan pembaruan ke ke depannya?",
-            "answer": "Anda akan mendapatkan pembaruan secara gratis."
+            "question": "Apakah bisa digunakan untuk banyak produk?",
+            "answer": "Ya. Website memang dirancang sebagai etalase yang mampu menampilkan banyak produk digital dalam satu tempat."
           },
           {
-            "question": "Apakah ada batasan penggunaan?",
-            "answer": "Produk ini bebas digunakan tanpa batasan harian."
+            "question": "Apakah sudah responsif?",
+            "answer": "Ya. Tampilan telah dioptimalkan agar nyaman digunakan di desktop, tablet, maupun smartphone."
           },
           {
-            "question": "Apakah saya bisa menyesuaikannya dengan kebutuhan saya?",
-            "answer": "Sangat bisa, fleksibilitas adalah salah satu keunggulan kami."
+            "question": "Apakah saya bebas mengubah desainnya?",
+            "answer": "Tentu. Anda bebas mengubah warna, font, gambar, layout, maupun menambahkan halaman baru sesuai kebutuhan."
+          },
+          {
+            "question": "Apakah ada biaya langganan?",
+            "answer": "Tidak. Setelah membeli, website menjadi milik Anda. Biaya yang mungkin diperlukan hanyalah domain dan hosting pilihan Anda."
           }
         ]
       },
-      "pricing": {
-        "title": "Transformasi Dimulai dari Sini",
-        "subtitle": "Ambil langkah pertama untuk mengoptimalkan cara kerja Anda.",
-        "originalPrice": "Rp 299.000",
-        "currentPrice": "Rp 99.000",
-        "features": [
-          "Akses penuh seumur hidup",
-          "Dokumentasi dan panduan langkah",
-          "Gratis update sistem secara berkala",
-          "Kompatibel untuk berbagai platform"
-        ],
-        "bonuses": [
-          "Materi eksklusif tambahan",
-          "Akses komunitas prioritas"
-        ],
-        "cta": {
-          "text": "Amankan Akses Sekarang",
-          "href": "#"
-        }
-      }
+      "showcaseImages": [
+        "placeholder-showcase-1.png",
+        "placeholder-showcase-2.png"
+      ]
     }
   ]
 }

@@ -12,12 +12,12 @@
     },
     {
       "title": "Gem/GPT CV Maker & End-to-End Product Maker",
-      "description": "Riset sistem logika dan arsitektur *prompt* untuk menghasilkan *output* standar industri secara otomatis.",
+      "description": "Riset sistem logika dan arsitektur prompt untuk menghasilkan output standar industri secara otomatis.",
       "status": "research"
     },
     {
       "title": "ThinkForge, Khutbah Generator & Personality Analyzer",
-      "description": "Pemetaan awal fitur. Fokus pada pengembangan *ThinkForge* sebagai *AI Cognitive Coach* (Level 1: Curiosity Training hingga Level 8: Independent Thinker).",
+      "description": "Pemetaan awal fitur. Fokus pada pengembangan ThinkForge sebagai AI Cognitive Coach (Level 1: Curiosity Training hingga Level 8: Independent Thinker).",
       "status": "concept"
     }
   ]

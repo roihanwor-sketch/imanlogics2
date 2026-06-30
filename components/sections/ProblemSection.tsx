@@ -32,9 +32,9 @@ export function ProblemSection({ problems }: ProblemSectionProps) {
         ))}
 
         {/* Highlighted item spanning full width on md */}
-        <FadeIn delay={0.5} className="w-full md:w-[calc(50%-12px)] text-center md:text-left">
+        <FadeIn delay={0.5} className="w-full md:w-[calc(50%-12px)]">
           <div className="bg-[#0B0F19] border border-white/5 rounded-3xl p-8 hover:border-emerald-500/30 transition-all group h-full">
-            <div className="w-12 h-12 bg-emerald-500/10 text-emerald-400 rounded-xl flex items-center justify-center mb-6 group-hover:bg-emerald-500/20 transition-all md:mx-0 mx-auto">
+            <div className="w-12 h-12 bg-emerald-500/10 text-emerald-400 rounded-xl flex items-center justify-center mb-6 group-hover:bg-emerald-500/20 transition-all">
               <IconConfig name={problems.highlightedItem.icon} className="w-6 h-6" />
             </div>
             <h4 className="text-lg font-bold text-white mb-3">{problems.highlightedItem.title}</h4>

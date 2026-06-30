@@ -35,13 +35,20 @@ export default function PortfolioPage() {
               <FadeIn key={item.slug} delay={0.1 * index}>
                 <div className="glass-card p-6 rounded-2xl flex flex-col h-full group">
                   <div className="flex justify-between items-start mb-6">
-                    <div className="p-3 rounded-xl bg-white/5 text-slate-300">
-                      <IconConfig name={item.icon} className="w-6 h-6" />
+                    <div className={`rounded-xl bg-white/5 text-slate-300 w-12 h-12 flex items-center justify-center overflow-hidden ${!item.logoImage ? 'p-3' : ''}`}>
+                      {item.logoImage ? (
+                        <img src={`/imanlogics2/assets/uploads/${item.logoImage}`} alt="Logo" className="w-full h-full object-cover" />
+                      ) : (
+                        <IconConfig name={item.icon} className="w-6 h-6" />
+                      )}
                     </div>
                     <BadgeConfig status={item.status} />
                   </div>
                   <div className="flex-grow">
-                    <span className="text-xs font-semibold text-cyan-500 mb-2 block">{item.badge}</span>
+                    <div className="flex items-center gap-2 mb-2">
+                      <span className="text-xs font-semibold text-cyan-500">{item.badge}</span>
+                      <span className="text-[9px] px-1.5 py-0.5 rounded bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 font-semibold tracking-wide uppercase scale-90 origin-left">Gemini Gem</span>
+                    </div>
                     <Link href={`/portfolio/${item.slug}`} className="hover:text-cyan-400 transition-colors">
                       <h3 className="text-lg font-bold text-white hover:text-cyan-400 transition-colors mb-3">{item.name}</h3>
                     </Link>

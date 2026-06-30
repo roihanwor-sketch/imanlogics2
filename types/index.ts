@@ -47,6 +47,8 @@ export interface ProductConfig {
   badge: string;
   status: string;
   icon: string;
+  logoImage?: string;
+  showcaseImages?: string[];
   description?: string;
   hero: {
     title: string;

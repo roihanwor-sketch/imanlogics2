@@ -5,6 +5,7 @@ import berandaData from '@/data/beranda.json';
 import roadmapData from '@/data/roadmap.json';
 import { BadgeConfig } from '@/lib/ui-configs';
 import Link from 'next/link';
+import { FolderGit2, Package, Cpu, Globe, Database, Zap } from 'lucide-react';
 
 export default function Home() {
   const { hero, fokus, tentang, alur, cta } = berandaData;
@@ -47,12 +48,90 @@ export default function Home() {
                   <div className="w-3 h-3 rounded-full bg-slate-700"></div>
                   <div className="w-3 h-3 rounded-full bg-slate-700"></div>
                 </div>
-                <div className="grid grid-cols-3 gap-4 opacity-50">
-                  <div className="h-32 rounded-lg bg-gradient-to-br from-cyan-500/10 to-transparent border border-cyan-500/20"></div>
-                  <div className="col-span-2 h-32 rounded-lg bg-gradient-to-br from-violet-500/10 to-transparent border border-violet-500/20 relative overflow-hidden">
-                    <div className="absolute inset-0 bg-[linear-gradient(90deg,transparent,rgba(255,255,255,0.05),transparent)] -translate-x-full animate-[shimmer_3s_infinite]"></div>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4 opacity-95 hover:opacity-100 transition-opacity duration-500 text-slate-300">
+                  {/* Slot 1: Project Inventory Metrics */}
+                  <div className="h-40 rounded-lg bg-[#0B0F19]/60 border border-cyan-500/20 p-4 flex flex-col justify-between text-left">
+                    <div className="flex items-center justify-between">
+                      <span className="text-[10px] font-mono text-cyan-400 uppercase tracking-wider font-bold">Inventory Lab</span>
+                      <span className="flex h-2 w-2 relative">
+                        <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                        <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
+                      </span>
+                    </div>
+                    <div className="space-y-1">
+                      <div className="flex justify-between items-center text-xs">
+                        <span className="text-slate-400">Live Production:</span>
+                        <span className="font-mono font-bold text-white">1 Proyek</span>
+                      </div>
+                      <div className="flex justify-between items-center text-xs">
+                        <span className="text-slate-400">Development:</span>
+                        <span className="font-mono font-bold text-cyan-400">2 Proyek</span>
+                      </div>
+                      <div className="flex justify-between items-center text-xs">
+                        <span className="text-slate-400">Research & Concept:</span>
+                        <span className="font-mono font-bold text-violet-400">4 Proyek</span>
+                      </div>
+                    </div>
+                    <div className="text-[9px] font-mono text-slate-500 border-t border-white/5 pt-2">
+                      DATABASE: 7 ITEMS SYNCED
+                    </div>
                   </div>
-                  <div className="col-span-3 h-48 rounded-lg bg-white/5 border border-white/5"></div>
+
+                  {/* Slot 2: Architecture Pipeline */}
+                  <div className="col-span-1 md:col-span-2 h-40 rounded-lg bg-[#0B0F19]/60 border border-violet-500/20 p-4 flex flex-col justify-between text-left">
+                    <div className="flex items-center justify-between">
+                      <span className="text-[10px] font-mono text-violet-400 uppercase tracking-wider font-bold">Architecture Pipeline</span>
+                      <span className="text-[9px] font-mono text-slate-500">STATIC SITE (SSG)</span>
+                    </div>
+                    <div className="flex items-center justify-around py-2 text-center text-[10px] md:text-xs font-mono">
+                      <div className="px-2.5 py-1.5 rounded bg-white/5 border border-white/10">
+                        <div className="text-cyan-400 font-bold">Decap CMS</div>
+                        <div className="text-[8px] text-slate-500">Content (Git)</div>
+                      </div>
+                      <span className="text-slate-600">➔</span>
+                      <div className="px-2.5 py-1.5 rounded bg-white/5 border border-white/10">
+                        <div className="text-violet-400 font-bold">Next.js 15</div>
+                        <div className="text-[8px] text-slate-500">Engine</div>
+                      </div>
+                      <span className="text-slate-600">➔</span>
+                      <div className="px-2.5 py-1.5 rounded bg-white/5 border border-white/10">
+                        <div className="text-emerald-400 font-bold">GitHub Pages</div>
+                        <div className="text-[8px] text-slate-500">CDN Host</div>
+                      </div>
+                    </div>
+                    <div className="text-[9px] font-mono text-slate-500 border-t border-white/5 pt-2">
+                      STACK: REACT 19 • TYPESCRIPT • TAILWIND V4
+                    </div>
+                  </div>
+
+                  {/* Slot 3: Build & Security Audit Log */}
+                  <div className="col-span-1 md:col-span-3 h-48 rounded-lg bg-[#0B0F19]/80 border border-white/5 p-4 font-mono text-left text-xs leading-relaxed overflow-hidden relative flex flex-col">
+                    <div className="flex items-center justify-between pb-2 border-b border-white/5 mb-2">
+                      <span className="text-[10px] text-slate-500 uppercase tracking-wider font-bold">Security & Build Audit Log</span>
+                      <span className="text-[10px] text-emerald-400">audit@imanlogics:~#</span>
+                    </div>
+                    <div className="flex-grow space-y-1 text-slate-400 text-[10px] md:text-xs">
+                      <div className="flex items-center gap-2">
+                        <span className="text-cyan-400">[SECURE]</span>
+                        <span>Content-Security-Policy (CSP) & Subresource Integrity (SRI) active</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <span className="text-cyan-400">[PATCH]</span>
+                        <span>PostCSS updated to v8.5.10 (CVE-2024-qx2v-qp2m resolved)</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <span className="text-cyan-400">[ISOLATE]</span>
+                        <span>Admin CMS interface removed from production static export</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <span className="text-emerald-400">[OPTIMIZE]</span>
+                        <span>Shared JS bundle size: 103 kB • Static Routing: 21 Pages</span>
+                      </div>
+                    </div>
+                    <div className="absolute bottom-4 right-4 bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 px-3 py-1 rounded text-[10px] font-bold">
+                      BUILD: SUCCESS
+                    </div>
+                  </div>
                 </div>
               </div>
             </FadeIn>
@@ -60,16 +139,25 @@ export default function Home() {
         </section>
 
         {/* 2. Fokus Utama */}
-        <section className="py-12 border-y border-white/5 bg-white/[0.02]">
-          <div className="max-w-7xl mx-auto px-6">
+        <section className="py-16 border-y border-white/5 bg-white/[0.01] relative overflow-hidden">
+          <div className="absolute inset-0 bg-gradient-to-r from-cyan-500/[0.02] via-transparent to-violet-500/[0.02] pointer-events-none"></div>
+          <div className="max-w-7xl mx-auto px-6 relative z-10">
             <FadeIn>
-              <p className="text-xs font-semibold text-cyan-400 uppercase tracking-widest text-center mb-8">{fokus.title}</p>
-              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
-                {fokus.items.map((item, index) => (
-                  <div key={index} className="text-center p-4 rounded-xl hover:bg-white/5 transition-colors border border-transparent hover:border-white/5">
-                    <div className="text-slate-300 font-medium text-sm">{item}</div>
-                  </div>
-                ))}
+              <p className="text-xs font-bold text-cyan-400 uppercase tracking-widest text-center mb-10">{fokus.title}</p>
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 md:gap-6">
+                {fokus.items.map((item, index) => {
+                  const icons = [FolderGit2, Package, Cpu, Globe, Database, Zap];
+                  const Icon = icons[index] || Zap;
+                  
+                  return (
+                    <div key={index} className="text-center p-6 rounded-2xl bg-[#0B0F19]/50 border border-white/5 hover:border-cyan-500/20 hover:bg-[#0B0F19]/80 hover:shadow-[0_0_30px_rgba(34,211,238,0.05)] hover:-translate-y-1 transition-all duration-300 group flex flex-col justify-between min-h-[140px]">
+                      <div className="w-10 h-10 rounded-xl bg-white/5 flex items-center justify-center mx-auto mb-4 text-slate-400 group-hover:text-cyan-400 group-hover:bg-cyan-500/10 transition-all duration-300">
+                        <Icon className="w-5 h-5" />
+                      </div>
+                      <div className="text-slate-300 font-bold text-xs md:text-sm group-hover:text-white transition-colors leading-snug mt-auto">{item}</div>
+                    </div>
+                  );
+                })}
               </div>
             </FadeIn>
           </div>
@@ -99,14 +187,86 @@ export default function Home() {
                   </div>
                   <span className="text-xs font-mono text-slate-500">{tentang.badge.sys}</span>
                 </div>
+
+                {/* SVG Circuit Board Schematic */}
+                <div className="my-auto py-6 flex justify-center items-center opacity-90 hover:opacity-100 transition-opacity duration-300 pointer-events-none select-none">
+                  <svg className="w-full max-w-[520px] h-56" viewBox="0 0 320 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                      <linearGradient id="circuit-grad-cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stopColor="#22d3ee" stopOpacity="0.8" />
+                        <stop offset="100%" stopColor="#0891b2" stopOpacity="0.2" />
+                      </linearGradient>
+                      <linearGradient id="circuit-grad-violet" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stopColor="#a855f7" stopOpacity="0.8" />
+                        <stop offset="100%" stopColor="#7e22ce" stopOpacity="0.2" />
+                      </linearGradient>
+                      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+                        <feGaussianBlur stdDeviation="3" result="blur" />
+                        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+                      </filter>
+                    </defs>
+
+                    {/* Central Chip */}
+                    <rect x="130" y="45" width="60" height="30" rx="6" fill="#0B0F19" stroke="#22d3ee" strokeWidth="1.8" filter="url(#glow)" />
+                    <text x="160" y="62" fill="#22d3ee" fontSize="9" fontFamily="monospace" fontWeight="bold" textAnchor="middle">IMAN</text>
+                    <text x="160" y="71" fill="#a855f7" fontSize="6.5" fontFamily="monospace" textAnchor="middle">SYS.CORE</text>
+
+                    {/* Left Node 1: Logic */}
+                    <circle cx="30" cy="30" r="4" fill="#22d3ee" />
+                    <text x="30" y="20" fill="#22d3ee" fontSize="8" fontFamily="monospace" textAnchor="middle">LOGIC</text>
+                    <path d="M34 30 H70 L95 50 H130" stroke="url(#circuit-grad-cyan)" strokeWidth="1.5" strokeLinecap="round" />
+
+                    {/* Left Node 2: Cognitive */}
+                    <circle cx="30" cy="90" r="4" fill="#a855f7" />
+                    <text x="30" y="102" fill="#a855f7" fontSize="8" fontFamily="monospace" textAnchor="middle">COGNITIVE</text>
+                    <path d="M34 90 H70 L95 70 H130" stroke="url(#circuit-grad-violet)" strokeWidth="1.5" strokeLinecap="round" />
+
+                    {/* Right Node: System */}
+                    <circle cx="290" cy="60" r="4" fill="#22d3ee" />
+                    <text x="290" y="50" fill="#22d3ee" fontSize="8" fontFamily="monospace" textAnchor="middle">SYSTEM</text>
+                    <path d="M286 60 H240 L220 70 H190" stroke="url(#circuit-grad-cyan)" strokeWidth="1.5" strokeLinecap="round" />
+
+                    {/* Micro Pulses */}
+                    <circle cx="75" cy="40" r="2" fill="#22d3ee" className="animate-ping" />
+                    <circle cx="210" cy="70" r="2" fill="#a855f7" className="animate-ping" />
+                  </svg>
+                </div>
+
                 <div>
-                  <div className="space-y-3 mb-6">
-                    <div className="h-1 w-full bg-white/5 rounded overflow-hidden"><div className="h-full bg-cyan-500/50 w-3/4"></div></div>
-                    <div className="h-1 w-full bg-white/5 rounded overflow-hidden"><div className="h-full bg-violet-500/50 w-1/2"></div></div>
-                    <div className="h-1 w-full bg-white/5 rounded overflow-hidden"><div className="h-full bg-blue-500/50 w-5/6"></div></div>
+                  <div className="space-y-4 mb-6">
+                    <div>
+                      <div className="flex justify-between text-[10px] font-mono text-cyan-400 mb-1">
+                        <span>Context Window</span>
+                        <span>92% (118k / 128k)</span>
+                      </div>
+                      <div className="h-1.5 w-full bg-white/5 rounded-full overflow-hidden">
+                        <div className="h-full bg-cyan-500 w-[92%] animate-pulse"></div>
+                      </div>
+                    </div>
+                    <div>
+                      <div className="flex justify-between text-[10px] font-mono text-violet-400 mb-1">
+                        <span>Model Temperature</span>
+                        <span>0.7 (Balanced)</span>
+                      </div>
+                      <div className="h-1.5 w-full bg-white/5 rounded-full overflow-hidden">
+                        <div className="h-full bg-violet-500 w-[70%]"></div>
+                      </div>
+                    </div>
+                    <div>
+                      <div className="flex justify-between text-[10px] font-mono text-blue-400 mb-1">
+                        <span>Response Latency</span>
+                        <span>142ms</span>
+                      </div>
+                      <div className="h-1.5 w-full bg-white/5 rounded-full overflow-hidden">
+                        <div className="h-full bg-blue-500 w-[83%]"></div>
+                      </div>
+                    </div>
                   </div>
-                  <h4 className="text-white font-medium">{tentang.badge.title}</h4>
-                  <p className="text-sm text-slate-500 mt-1">{tentang.badge.subtitle}</p>
+                  <h4 className="text-white font-medium flex items-center gap-2">
+                    <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-ping"></span>
+                    {tentang.badge.title}
+                  </h4>
+                  <p className="text-xs text-slate-500 mt-1">{tentang.badge.subtitle}</p>
                 </div>
               </div>
             </FadeIn>

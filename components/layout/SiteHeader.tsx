@@ -44,7 +44,7 @@ export function SiteHeader() {
 
       {/* Mobile Nav */}
       <div
-        className={`fixed inset-0 bg-[#0B0F19] z-40 transform transition-transform duration-300 ease-in-out md:hidden flex flex-col pt-32 px-6 items-center ${
+        className={`fixed inset-0 bg-[#0B0F19]/95 backdrop-blur-2xl z-40 transform transition-transform duration-300 ease-in-out md:hidden flex flex-col pt-32 px-6 items-center ${
           isMenuOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
       >

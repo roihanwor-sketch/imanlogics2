@@ -8,6 +8,7 @@ import { HowItWorksSection } from '@/components/sections/HowItWorks';
 import { BenefitsGrid } from '@/components/sections/BenefitsGrid';
 import { FaqSection } from '@/components/sections/FaqSection';
 import { PricingSection } from '@/components/sections/PricingSection';
+import { ShowcaseSection } from '@/components/sections/ShowcaseSection';
 import { ProductConfig } from '@/types';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
@@ -40,8 +41,9 @@ export function ProductTemplate({ product, backUrl, backLabel }: ProductTemplate
           <div className="glass-card rounded-[2.5rem] p-6 sm:p-12 md:p-16 relative overflow-hidden">
             <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[500px] bg-gradient-to-b from-emerald-500/10 to-amber-500/5 blur-[100px] rounded-full pointer-events-none"></div>
 
-            <HeroSection hero={product.hero} badge={product.badge} status={product.status} />
+            <HeroSection hero={product.hero} badge={product.badge} status={product.status} logoImage={product.logoImage} />
             {product.trustBar && product.trustBar.length > 0 && <TrustBar items={product.trustBar} />}
+            {product.showcaseImages && <ShowcaseSection images={product.showcaseImages} />}
             {product.problems && <ProblemSection problems={product.problems} />}
             {product.solution && <SolutionSection solution={product.solution} />}
             {product.howItWorks && <HowItWorksSection howItWorks={product.howItWorks} />}

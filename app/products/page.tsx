@@ -4,7 +4,7 @@ import { SiteFooter } from '@/components/layout/SiteFooter';
 import { FadeIn } from '@/components/shared/FadeIn';
 import { getProductItems } from '@/lib/products';
 import Link from 'next/link';
-import { BadgeConfig } from '@/lib/ui-configs';
+import { BadgeConfig, IconConfig } from '@/lib/ui-configs';
 
 export const metadata: Metadata = {
   title: 'Etalase Produk Digital',
@@ -36,8 +36,20 @@ export default function ProductsPage() {
             {items.map((item, index) => (
               <FadeIn key={item.slug} delay={0.1 * index}>
                 <div className="glass-card rounded-2xl p-5 flex flex-col hover:border-purple-500/30 group h-full">
+                  <div className="flex justify-between items-start mb-4">
+                    <div className={`rounded-xl bg-white/5 text-slate-300 w-12 h-12 flex items-center justify-center overflow-hidden ${!item.logoImage ? 'p-3' : ''}`}>
+                      {item.logoImage ? (
+                        <img src={`/imanlogics2/assets/uploads/${item.logoImage}`} alt="Logo" className="w-full h-full object-cover" />
+                      ) : (
+                        <IconConfig name={item.icon} className="w-6 h-6" />
+                      )}
+                    </div>
+                  </div>
                   <div className="mb-4 flex-grow">
-                    <span className="text-[10px] uppercase tracking-wider font-semibold text-purple-400 block mb-2">{item.badge}</span>
+                    <div className="flex items-center gap-2 mb-2">
+                      <span className="text-[10px] uppercase tracking-wider font-semibold text-purple-400 block">{item.badge}</span>
+                      <span className="text-[9px] px-1.5 py-0.5 rounded bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 font-semibold tracking-wide uppercase scale-90 origin-left">Gemini Gem</span>
+                    </div>
                     <Link href={`/products/${item.slug}`}>
                       <h3 className="text-white font-bold mb-2 group-hover:text-cyan-400 transition-colors">{item.name}</h3>
                     </Link>
