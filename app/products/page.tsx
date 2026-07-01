@@ -25,8 +25,6 @@ export default function ProductsPage() {
       <SiteHeader />
       
       <main className="flex-grow pt-32 pb-24 px-6 relative z-10 min-h-screen">
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[300px] bg-cyan-900/10 blur-[100px] pointer-events-none"></div>
-
         <div className="max-w-7xl mx-auto relative z-10">
           <FadeIn>
             <div className="mb-12">
