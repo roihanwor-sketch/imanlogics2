@@ -6,6 +6,13 @@ import roadmapData from '@/data/roadmap.json';
 import { BadgeConfig } from '@/lib/ui-configs';
 import Link from 'next/link';
 import { FolderGit2, Package, Cpu, Globe, Database, Zap } from 'lucide-react';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: '/',
+  },
+};
 
 export default function Home() {
   const { hero, fokus, tentang, alur, cta } = berandaData;

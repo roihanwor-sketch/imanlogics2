@@ -21,7 +21,7 @@ export function SiteHeader() {
       <header className="fixed w-full top-0 z-50 bg-[#0B0F19]/90 backdrop-blur-xl border-b border-white/5 transition-all">
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
           <Link href="/" className="text-xl font-bold tracking-tight text-white flex items-center gap-2.5 relative z-[60]">
-            <Image src="/imanlogics2/logo.png" alt="Iman Logics" width={36} height={36} className="rounded-md" />
+            <Image src="/logo.png" alt="Iman Logics" width={36} height={36} className="rounded-md" />
             <span>
               {globalData.footer.brand_prefix} <span className="text-slate-400">{globalData.footer.brand_suffix}</span>
             </span>

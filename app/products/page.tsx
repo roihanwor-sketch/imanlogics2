@@ -9,6 +9,9 @@ import { BadgeConfig, IconConfig } from '@/lib/ui-configs';
 export const metadata: Metadata = {
   title: 'Etalase Produk Digital',
   description: 'Koleksi alat bantu, panduan, dan sistem siap pakai yang sedang dan telah dibangun.',
+  alternates: {
+    canonical: '/products',
+  },
 };
 
 export default function ProductsPage() {
@@ -39,7 +42,7 @@ export default function ProductsPage() {
                   <div className="flex justify-between items-start mb-4">
                     <div className={`rounded-xl bg-white/5 text-slate-300 w-12 h-12 flex items-center justify-center overflow-hidden ${!item.logoImage ? 'p-3' : ''}`}>
                       {item.logoImage ? (
-                        <img src={`/imanlogics2/assets/uploads/${item.logoImage}`} alt="Logo" className="w-full h-full object-cover" />
+                        <img src={`/assets/uploads/${item.logoImage}`} alt="Logo" className="w-full h-full object-cover" />
                       ) : (
                         <IconConfig name={item.icon} className="w-6 h-6" />
                       )}

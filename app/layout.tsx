@@ -8,13 +8,17 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://imanlogics.web.id'),
   title: {
     template: '%s | Iman Logics',
     default: 'Iman Logics',
   },
   description: 'Ekosistem Digital Berbasis AI untuk berbagai kebutuhan.',
   icons: {
-    icon: '/imanlogics2/icon.png',
+    icon: '/icon.png',
+  },
+  verification: {
+    google: process.env.NEXT_PUBLIC_GSC_VERIFICATION || 'YOUR_GSC_VERIFICATION_CODE_HERE',
   },
 };
 

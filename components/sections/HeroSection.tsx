@@ -17,7 +17,7 @@ export function HeroSection({ hero, badge, status, logoImage }: HeroSectionProps
       <FadeIn delay={0.1}>
         <div className={`w-20 h-20 md:w-24 md:h-24 rounded-[2rem] bg-[#0B0F19]/80 border border-emerald-500/30 flex items-center justify-center text-emerald-400 shadow-[0_0_40px_rgba(16,185,129,0.15)] mb-8 mx-auto overflow-hidden relative ${!logoImage ? 'p-5' : ''}`}>
           {logoImage ? (
-            <img src={`/imanlogics2/assets/uploads/${logoImage}`} alt="Logo" className="w-full h-full object-cover" />
+            <img src={`/assets/uploads/${logoImage}`} alt="Logo" className="w-full h-full object-cover" />
           ) : (
             <Bot className="w-full h-full" />
           )}

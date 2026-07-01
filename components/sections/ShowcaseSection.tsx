@@ -62,7 +62,7 @@ export function ShowcaseSection({ images }: ShowcaseSectionProps) {
               >
                 <div className="relative w-full h-full rounded-[2.5rem] overflow-hidden border-4 border-[#0B0F19] shadow-2xl bg-[#0B0F19]/50 group">
                   <img
-                    src={`/imanlogics2/assets/uploads/${img}`}
+                    src={`/assets/uploads/${img}`}
                     alt={`Showcase ${index + 1}`}
                     className="w-full h-full object-cover object-top"
                   />

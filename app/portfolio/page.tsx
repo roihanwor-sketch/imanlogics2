@@ -9,6 +9,9 @@ import { BadgeConfig, IconConfig } from '@/lib/ui-configs';
 export const metadata: Metadata = {
   title: 'Portofolio & Eksperimen',
   description: 'Proyek sistem, AI, dan platform yang sedang dan telah dibangun.',
+  alternates: {
+    canonical: '/portfolio',
+  },
 };
 
 export default function PortfolioPage() {
@@ -37,7 +40,7 @@ export default function PortfolioPage() {
                   <div className="flex justify-between items-start mb-6">
                     <div className={`rounded-xl bg-white/5 text-slate-300 w-12 h-12 flex items-center justify-center overflow-hidden ${!item.logoImage ? 'p-3' : ''}`}>
                       {item.logoImage ? (
-                        <img src={`/imanlogics2/assets/uploads/${item.logoImage}`} alt="Logo" className="w-full h-full object-cover" />
+                        <img src={`/assets/uploads/${item.logoImage}`} alt="Logo" className="w-full h-full object-cover" />
                       ) : (
                         <IconConfig name={item.icon} className="w-6 h-6" />
                       )}
