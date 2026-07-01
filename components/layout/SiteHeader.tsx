@@ -18,7 +18,7 @@ export function SiteHeader() {
 
   return (
     <>
-      <header className="fixed w-full top-0 z-50 bg-[#0B0F19]/90 backdrop-blur-xl border-b border-white/5 transition-all">
+      <header className="fixed w-full top-0 z-50 bg-[#0B0F19]/45 bg-gradient-to-b from-white/[0.04] to-transparent backdrop-blur-2xl border-b border-white/10 shadow-[inset_0_1px_0_0_rgba(255,255,255,0.12),0_8px_32px_0_rgba(0,0,0,0.37)] transition-all">
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
           <Link href="/" className="text-xl font-bold tracking-tight text-white flex items-center gap-2.5 relative z-[60]">
             <Image src="/logo.png" alt="Iman Logics" width={36} height={36} className="rounded-md" />
