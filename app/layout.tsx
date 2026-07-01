@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     template: '%s | Iman Logics',
     default: 'Iman Logics',
   },
-  description: 'Ekosistem Digital Berbasis AI untuk berbagai kebutuhan.',
+  description: 'Bangun produktivitas efektif dengan Iman Logics. Ekosistem digital berbasis AI yang menyediakan solusi sistem kognitif, manajemen logika, dan tools cerdas.',
   icons: {
     icon: '/icon.png',
   },
